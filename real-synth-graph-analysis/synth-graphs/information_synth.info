@@ -1,0 +1,85 @@
+small_world_graph_m_40
+# of edges: 2000000
+# of nodes: 100000
+Density: 0.0004000040000400004
+Degeneracy: 33
+scale_free_graph_m_20
+# of edges: 1046002
+# of nodes: 100000
+Density: 0.00020920249202492026
+Degeneracy: 15
+scale_free_graph_m_30
+# of edges: 1549292
+# of nodes: 100000
+Density: 0.00030986149861498614
+Degeneracy: 22
+scale_free_graph_m_40
+# of edges: 2047534
+# of nodes: 100000
+Density: 0.00040951089510895107
+Degeneracy: 28
+scale_free_graph_m_25
+# of edges: 1300746
+# of nodes: 100000
+Density: 0.0002601518015180152
+Degeneracy: 18
+small_world_graph_m_10
+# of edges: 500000
+# of nodes: 100000
+Density: 0.0001000010000100001
+Degeneracy: 7
+small_world_graph_m_30
+# of edges: 1500000
+# of nodes: 100000
+Density: 0.0003000030000300003
+Degeneracy: 24
+scale_free_graph_m_15
+# of edges: 798375
+# of nodes: 100000
+Density: 0.00015967659676596765
+Degeneracy: 11
+small_world_graph_m_15
+# of edges: 700000
+# of nodes: 100000
+Density: 0.00014000140001400014
+Degeneracy: 10
+small_world_graph_m_25
+# of edges: 1200000
+# of nodes: 100000
+Density: 0.00024000240002400024
+Degeneracy: 18
+small_world_graph_m_20
+# of edges: 1000000
+# of nodes: 100000
+Density: 0.0002000020000200002
+Degeneracy: 15
+scale_free_graph_m_5
+# of edges: 299799
+# of nodes: 100000
+Density: 5.996039960399604e-05
+Degeneracy: 5
+scale_free_graph_m_10
+# of edges: 550036
+# of nodes: 100000
+Density: 0.00011000830008300083
+Degeneracy: 8
+small_world_graph_m_35
+# of edges: 1700000
+# of nodes: 100000
+Density: 0.00034000340003400035
+Degeneracy: 28
+scale_free_graph_m_35
+# of edges: 1802411
+# of nodes: 100000
+Density: 0.0003604858048580486
+Degeneracy: 25
+small_world_graph_m_5
+# of edges: 200000
+# of nodes: 100000
+Density: 4.000040000400004e-05
+Degeneracy: 3
+small_world_graph_m_40
+# of edges: 2000000
+# of nodes: 100000
+Density: 0.0004000040000400004
+Degeneracy: 33
