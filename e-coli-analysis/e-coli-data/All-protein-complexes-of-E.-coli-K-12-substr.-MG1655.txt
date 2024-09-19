@@ -1,0 +1,1178 @@
+Proteins	Genes	Accession-1 of Gene	Left-End-Position of Gene	Right-End-Position of Gene
+RNase III	rnc	b2567	2703383	2704063
+aldehyde dehydrogenase, Fe-S subunit // aldehyde dehydrogenase, FAD-binding Fe-S subunit // aldehyde dehydrogenase, molybdenum cofactor-binding subunit	paoC // paoB // paoA		298736	300934
+ferrichrome outer membrane transport complex	fhuA // tonB // exbB // exbD		167484	169727
+fused 4'-phosphopantothenoylcysteine decarboxylase and phosphopantothenoylcysteine synthetase	dfp	b3639	3812731	3813951
+RcsB-BglJ DNA-binding transcriptional activator	rcsB // bglJ		2316177	2316827
+putative transport complex, ABC superfamily	yphE // yphF // yphD		2676850	2678361
+malate dehydrogenase (oxaloacetate-decarboxylating) (NADP<sup>+</sup>)	maeB	b2463	2576098	2578377
+putative D,D-dipeptide ABC transporter	ddpF // ddpD // ddpA // ddpC // ddpB		1557112	1558038
+DNA-binding transcriptional dual regulator CueR-Cu<sup>+</sup>	cueR		513993	514400
+lysine&mdash;tRNA ligase	lysU	b4129	4353200	4354717
+glucosamine-6-phosphate deaminase	nagB	b0678	702811	703611
+bacterial condensin MukBEF	mukE // mukF // mukB		975622	976326
+maltodextrin glucosidase	malZ	b0403	422518	424332
+multidrug efflux pump AcrAD-TolC	acrA // acrD // tolC		484426	485619
+DNA-binding transcriptional dual regulator NanR	nanR	b3226	3373698	3374489
+N<sup>6</sup>-L-threonylcarbamoyladenine synthase	tsaB // tsaD // tsaE		1890572	1891267
+arabinose ABC transporter	araF // araH // araG		1985139	1986128
+CTP synthetase	pyrG	b2780	2908029	2909666
+HipAB toxin/antitoxin complex / DNA-binding transcriptional repressor	hipA // hipB		1590854	1592176
+NH<sub>3</sub>-dependent NAD<sup>+</sup> synthetase	nadE	b1740	1822458	1823285
+pyridoxal kinase 1 / hydroxymethylpyrimidine kinase	pdxK	b2418	2536386	2537237
+PhoQ-<i>N</i>-phospho-L-histidine	phoQ		1188316	1189776
+holo-EntB dimer // phosphopantetheinyl transferase EntD // holo [EntF peptidyl-carrier protein] // 2,3-dihydroxybenzoate-[aryl-carrier protein] ligase	entE // entF // entD // entB		626070	627680
+dihydroneopterin aldolase	folB	b3058	3204221	3204589
+succinate:quinone oxidoreductase subcomplex	sdhD // sdhC // sdhB // sdhA		755560	755907
+dGTP triphosphohydrolase	dgt	b0160	179237	180754
+3-oxoacyl-[acyl carrier protein] synthase 3	fabH	b1091	1148759	1149712
+iron-sulfur cluster insertion protein ErpA	erpA	b0156	176610	176954
+outer membrane channel TolC	tolC	b3035	3178115	3179596
+hydrogenase 4	hyfH // hyfF // hyfE // hyfD // hyfC // hyfB // hyfA // hyfI // hyfG		2610164	2610709
+acyl-[acyl-carrier-protein]&mdash;UDP-<i>N</i>-acetylglucosamine <i>O</i>-acyltransferase	lpxA	b0181	202560	203348
+5-carboxymethylaminomethyluridine-tRNA synthase GTPase subunit	mnmE	b3706	3886828	3888192
+DNA-binding transcriptional dual regulator NtrC	glnG	b3868	4053869	4055278
+NMN aminohydrolase	pncC	b2700	2823849	2824346
+HslV hexamer	hslV	b3932	4121757	4122287
+sensor histidine kinase CreC	creC	b4399	4636696	4638120
+glutaredoxin 4	grxD	b1654	1733754	1734101
+glycerol-3-phosphate dehydrogenase, biosynthetic	gpsA	b3608	3782642	3783661
+chemotaxis signaling complex core unit - serine sensing	tsr // cheA // cheW		4591657	4593312
+3-carboxyethylcatechol 2,3-dioxygenase	mhpB	b0348	370277	371221
+nucleoid-associated protein SymE	symE	b4347	4579499	4579840
+ClpXP	clpX // clpP		457426	458700
+reduced flavorubredoxin	norV	b2710	2832476	2833915
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	entA	b0596	628551	629297
+cryptic phosphonate/phosphate ABC transporter	phnD // phnE // phnC		4323336	4324352
+Zn2+ ABC transporter ATP binding subunit // Zn2+ ABC transporter membrane subunit // Zn2+ ABC transporter periplasmic binding protein	znuA // znuB // znuC		1941651	1942583
+ribonuclease E inhibitor protein B	rraB	b4255	4478473	4478889
+protein HokC	hokC	b4412	16751	16903
+aspartate aminotransferase	aspC	b0928	984519	985709
+proline&mdash;tRNA ligase	proS	b0194	217057	218775
+chloride:H+ antiporter ClcA	clcA	b0155	175107	176528
+tRNA U34 carboxymethyltransferase	cmoB	b1871	1953442	1954413
+3-oxoacyl-[acyl carrier protein] synthase 1	fabB	b2323	2440385	2441605
+guanidinium exporter	gdx	b4148	4376875	4377192
+lipoamide dehydrogenase	lpd	b0116	127912	129336
+divisome protein complex FtsEX	ftsX // ftsE		3601028	3602086
+translocation and assembly module	tamA // tamB		4442382	4444115
+Xaa-Pro aminopeptidase	pepP	b2908	3053515	3054840
+predicted enamine/imine deaminase	tdcF	b3113	3259721	3260110
+methionine adenosyltransferase	metK	b2942	3086706	3087860
+<i>all-trans</i>-octaprenyl-diphosphate synthase	ispB	b3187	3333710	3334681
+putative xanthine dehydrogenase	xdhC // xdhB // xdhA		3003489	3003968
+UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	lpxD	b0179	200971	201996
+ATP-dependent helicase Lhr	lhr	b1653	1729087	1733703
+L-rhamnose mutarotase	rhaM	b3901	4093124	4093438
+L-cysteine desulfurase SufS	sufS	b1680	1759303	1760523
+&alpha; complex	atoD	b2221	2323447	2324109
+bifunctional sensor histidine kinase PhoQ	phoQ	b1129	1188316	1189776
+putative glutamate&mdash;cysteine ligase 2	ybdK	b0581	606265	607383
+NADPH-dependent FMN reductase	ssuE	b0937	996937	997512
+thiamine ABC transporter	thiB // thiP // thiQ		74497	75480
+DinJ-YafQ antitoxin/toxin complex / DNA-binding transcriptional repressor	dinJ // yafQ		246242	246502
+adenylosuccinate synthetase	purA	b4177	4404687	4405985
+3-deoxy-7-phosphoheptulonate synthase, Tyr-sensitive	aroF	b2601	2740080	2741150
+periplasmic chaperone, inhibitor of vertebrate C-type lysozyme	ivy	b0220	240343	240816
+cell division factor ZapB	zapB	b3928	4118515	4118760
+16S rRNA m4C1402 methyltransferase	rsmH	b0082	90094	91035
+chemotaxis signaling complex core unit - ribose/galactose/glucose sensing	trg // cheW // cheA		1492470	1494110
+carbon-phosphorus lyase core complex monomer	phnG // phnH // phnI // phnJ		4321244	4321696
+heme ABC transporter CydDC	cydC // cydD		927474	929195
+K<sup>+</sup> transporting P-type ATPase	kdpC // kdpB // kdpA // kdpF		724407	724979
+menaquinol:trimethylamine <i>N</i>-oxide oxidoreductase I	torA // torC		1059256	1061802
+degradosome	eno // pnp // rhlB // rne // ppk		2906643	2907941
+alanine&mdash;tRNA ligase/DNA-binding transcriptional repressor	alaS	b2697	2819381	2822011
+glutathione reductase (NADPH)	gor	b3500	3646299	3647651
+glutamate&mdash;pyruvate aminotransferase AlaC	alaC	b2379	2497057	2498295
+histidine kinase GlrK	glrK	b2556	2689671	2691098
+uridylyl-[protein PII-2]	glnK		472598	472936
+EnvZ-<i>N</i>-phospho-L-histidine	envZ		3534516	3535868
+DLP12 prophage; DNA base-flipping protein	ybcN	b0547	572466	572921
+HU&alpha;&alpha;	hupA	b4000	4200281	4200553
+quinolinate synthase	nadA	b0750	782085	783128
+putrescine aminotransferase	patA	b3073	3219494	3220873
+sulfate adenylyltransferase	cysN // cysD		2873992	2875419
+L-arginine ABC transporter	artP // artM // artQ // artJ		903006	903734
+<i>holo</i>-EntB dimer	entB	b0595	627694	628551
+Z-ring inhibitor complex MinCD	minC // minD		1225385	1226080
+branched chain amino acid / phenylalanine ABC transporter	livJ // livM // livH // livG // livF		3598555	3599658
+Tsr<SUP>gln</SUP>	tsr // cheA // cheW		4591657	4593312
+putative transport complex, ABC superfamily	yhdW // yhdX // yhdY // yhdZ		3419042	3420066
+DNA-binding transcriptional activator KdpE-phosphorylated	kdpE	b0694	721056	721733
+regulator of KefC-mediated potassium transport and quinone oxidoreductase	kefF	b0046	47246	47776
+primosome	dnaG // priC // priA // priB // dnaT // dnaB		3211107	3212852
+purine nucleoside phosphorylase	deoD	b4384	4620883	4621602
+methyl-directed mismatch repair system	mutH // mutS // mutL		2969662	2970351
+CheA(L) - phosphorylated	cheA		1973360	1975324
+ADP-sugar pyrophosphatase	nudF	b3034	3177281	3177910
+lysine decarboxylase 1	cadA	b4131	4356470	4358617
+hydrogenase 2	hybC // hybO // hybB // hybA		3141286	3142989
+F- channel	crcB	b0624	657555	657938
+L-rhamnonate dehydratase	rhmD	b2247	2360209	2361414
+nucleoid occlusion factor SlmA	slmA	b3641	3814494	3815090
+&beta;-galactosidase	lacZ	b0344	363231	366305
+universal stress protein G	uspG	b0607	641439	641867
+peptidoglycan glycosyltransferase / peptidoglycan DD-transpeptidase MrcB	mrcB	b0149	164730	167264
+heme chaperone HemW	hemW	b2955	3097267	3098403
+6-hydroxyaminopurine reductase	yiiM	b3910	4102822	4103496
+L-glycero-L-galacto-octuluronate-1-phosphate aldolase	ydjI	b1773	1856933	1857769
+pantetheine-phosphate adenylyltransferase	coaD	b3634	3809825	3810304
+MukEF complex	mukF // mukE		974319	975641
+pyrroloquinoline quinone outer membrane transport complex	pqqU // tonB // exbB // exbD		1520963	1523065
+glycerophosphoryl diester phosphodiesterase, periplasmic	glpQ	b2239	2349935	2351011
+water channel AqpZ	aqpZ	b0875	915352	916047
+sensor histidine kinase BarA	barA	b2786	2915057	2917813
+glycolate dehydrogenase	glcF // glcE // glcD		3124236	3125459
+NADPH-dependent aldehyde reductase YqhD	yqhD	b3011	3155355	3156518
+murein tripeptide amidase A	mpaA	b1326	1389870	1390598
+DUF892 domain-containing protein YciF	yciF	b1258	1315270	1315770
+siroheme synthase	cysG	b3368	3497828	3499201
+tryptophan synthase, &beta; subunit dimer	trpB	b1261	1317222	1318415
+HprS-<i>N</i>-phospho-L-histidine	hprS		2036794	2038152
+sensor histidine kinase KdpD	kdpD	b0695	721730	724414
+citrate lyase, citryl-acyl carrrier protein lyase component	citE	b0616	649582	650490
+glucose-1-phosphate thymidylyltransferase 1	rfbA	b2039	2110138	2111019
+polynucleotide phosphorylase	pnp	b3164	3309033	3311168
+tautomerase PptA	pptA	b1461	1533052	1533285
+DNA gyrase	gyrB // gyrA		3877705	3880119
+NAD kinase	nadK	b2615	2750831	2751709
+McrBC restriction endonuclease	mcrC // mcrB		4576912	4577958
+DNA-binding transcriptional dual regulator CpxR-phosphorylated	cpxR	b3912	4104972	4105670
+serine hydroxymethyltransferase	glyA	b2551	2684254	2685507
+glutaminase 1	glsA	b0485	511641	512573
+diacylglycerol kinase	dgkA	b4042	4256637	4257005
+L-asparaginase 2	ansB	b2957	3099682	3100728
+transketolase 1	tktA	b2935	3079644	3081635
+DNA-binding transcriptional repressor/NMN adenylyltransferase NadR	nadR	b4390	4627315	4628547
+holocytochrome <I>c</I> synthase complex	ccmF // ccmH		2292961	2294904
+DNA polymerase III, &tau; subunit dimer	dnaX	b0470	492092	494023
+6-phosphofructokinase 1	pfkA	b3916	4107552	4108514
+DNA polymerase III, holoenzyme	holC // holD // dnaN // dnaX // holB // holA // dnaE // dnaQ // holE		4483837	4484280
+pyridine nucleotide transhydrogenase subunit beta // pyridine nucleotide transhydrogenase subunit alpha	pntA // pntB		1676371	1677903
+ADP-sugar diphosphatase NudE	nudE	b3397	3525589	3526149
+tyrosine&mdash;tRNA ligase	tyrS	b1637	1715948	1717222
+chemotaxis protein CheZ	cheZ	b1881	1966393	1967037
+universal stress protein D	uspD	b3923	4113293	4113721
+glycerol kinase	glpK	b3926	4115714	4117222
+alanine racemase 2	dadX	b1190	1238879	1239949
+selenate reductase	ynfH // ynfG // ynfF // ynfE		1663609	1664463
+acetate/glycolate:cation symporter	actP	b4067	4283253	4284902
+vitamin B<sub>12</sub> ABC transporter	btuF // btuC // btuD		177662	178462
+chemotaxis protein CheA(L)	cheA	b1888	1973360	1975324
+inorganic pyrophosphatase	ppa	b4226	4449122	4449652
+ribose-phosphate diphosphokinase	prs	b1207	1260928	1261875
+pyruvate kinase 2	pykA	b1854	1937649	1939091
+Der GTPase-activating protein YihI	yihI	b3866	4051347	4051856
+L-fuculose-phosphate aldolase	fucA	b2800	2933041	2933688
+fructose-specific PTS enzyme II	fruA // fruB		2259719	2261410
+2-hydroxycyclohepta-1,4,6-triene-1-carboxyl-CoA thioesterase	paaY	b1400	1464471	1465061
+acetyl-CoA acetyltransferase	atoB	b2224	2326109	2327293
+assimilatory sulfite reductase (NADPH)	cysI // cysJ		2888387	2890099
+tagatose-1,6-bisphosphate aldolase 1	kbaY	b3137	3283143	3284003
+50S ribosomal subunit protein L7/L12 dimer	rplL	b3986	4180560	4180925
+aminopeptidase B	pepB	b2523	2655075	2656358
+diguanylate cyclase DgcC	dgcC	b0385	403703	404818
+L-glycero-L-galacto-octuluronate kinase	ydjH	b1772	1855981	1856928
+uracil transporter UraA	uraA	b2497	2618871	2620160
+RNA polymerase sigma S	rpoS // rpoA // rpoC // rpoB		2866559	2867551
+replicative DNA helicase	dnaB	b4052	4264314	4265729
+phosphate signaling protein PhoU	phoU	b3724	3906853	3907578
+PspABC complex	pspA // pspB // pspC		1368079	1368747
+glutamate decarboxylase B	gadB	b1493	1570645	1572045
+hypoxanthine phosphoribosyltransferase	hpt	b0125	141431	141967
+K+ : H+ antiporter KefC	kefC	b0047	47769	49631
+2,3-dihydroxybenzoyl-EntB	entB		627694	628551
+miniconductance mechanosensitive channel MscM	mscM	b4159	4386047	4389370
+KpLE2 phage-like element; 2,7-anhydro-<i>N</i>-acetylneuraminate hydratase	nanY	b4280	4505287	4506405
+phenylacetaldehyde dehydrogenase	feaB	b1385	1447519	1449018
+uridylyl-[protein PII-1]	glnB		2687070	2687408
+ATP-dependent RNA helicase DeaD	deaD	b3162	3305971	3307860
+DNA-binding transcriptional dual regulator Cra	cra	b0080	88028	89032
+NADPH-dependent nitro/quinone reductase NfsA	nfsA	b0851	891184	891906
+phosphoadenosine phosphosulfate reductase	cysH	b2762	2887578	2888312
+ribonuclease E	rne	b1084	1141182	1144367
+DNA binding transcriptional dual regulator RcdA	rcdA	b0846	887423	887959
+3-deoxy-7-phosphoheptulonate synthase, Trp-sensitive	aroH	b1704	1788435	1789481
+formate dehydrogenase N, subcomplex	fdnI // fdnH // fdnG		1551338	1551991
+Trg<SUP>glu-Me</SUP>	trg // cheW // cheA		1492470	1494110
+imidazole glycerol phosphate synthase subunit HisH // imidazole glycerol phosphate synthase subunit HisF	hisF // hisH		2095844	2096620
+cystathionine beta-lyase / L-cysteine desulfhydrase / alanine racemase	metC	b3008	3152236	3153423
+alpha-galactosidase	melA	b4119	4341911	4343266
+CP4-57 prophage; RNase LS, toxin of the RnlAB toxin-antitoxin system	rnlA	b2630	2765918	2766991
+cyclic di-GMP phosphodiesterase PdeK	pdeK	b3529	3683630	3685618
+SufBC<sub>2</sub>D Fe-S cluster scaffold complex	sufD // sufC // sufB		1760520	1761791
+ribonuclease BN	rbn	b2268	2381608	2382525
+DNA-binding transcriptional repressor MprA	mprA	b2684	2810770	2811300
+putative phosphatidylethanolamine synthesis regulator GnsA	gnsA	b4517	1052067	1052240
+alpha cleavage product of SpeD // beta cleavage product of SpeD	speD		134788	135582
+CcmAB	ccmA // ccmB		2297021	2297644
+sulfoquinovose isomerase	yihS	b3880	4070515	4071756
+putative ethanolamine catabolic microcompartment shell protein EutS	eutS	b2462	2575470	2575805
+guanylate kinase	gmk	b3648	3821428	3822051
+aminodeoxychorismate synthase subunit 1 // aminodeoxychorismate synthase subunit 2	pabA // pabB		3490266	3490829
+hydrogenase 3	hycE // hycB // hycG // hycF // hycC // hycD		2844762	2846471
+4-aminobutyrate aminotransferase GabT	gabT	b2662	2792735	2794015
+flagellar basal body	fliN // fliM // fliG // fliF // flgI // flgG // flgF // flgC // flgB // motB // motA // flgH		2021088	2021501
+formate dehydrogenase O	fdoI // fdoH // fdoG		4081225	4081860
+5,10-methylenetetrahydrofolate reductase	metF	b3941	4132616	4133506
+glutamate decarboxylase A	gadA	b3517	3666180	3667580
+cyanase	cynS	b0340	359489	359959
+periplasmic nitrite reductase NrfAB	nrfB // nrfA		4289245	4289811
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	ispE	b1208	1262026	1262877
+DNA polymerase III, core enzyme	holE // dnaQ // dnaE		1925108	1925338
+HflK-HflC complex; regulator of FtsH protease	hflC // hflK		4403300	4404304
+redox-responsive ATPase YchF	ychF	b1203	1256721	1257812
+fructose-6-phosphate aldolase 1	fsaA	b0825	863642	864304
+ClpXP protease specificity-enhancing factor	sspB	b3228	3376279	3376776
+lysine decarboxylase 2	ldcC	b0186	209679	211820
+signaling pathway modulator ZraP	zraP	b4002	4201263	4201688
+RelB-RelE antitoxin/toxin complex / DNA-binding transcriptional repressor	relE // relB		1645346	1645633
+Trg<SUP>gln</SUP>	trg // cheW // cheA		1492470	1494110
+GTP cyclohydrolase 1	folE	b2153	2242984	2243652
+threonine&mdash;tRNA ligase	thrS	b1719	1800642	1802570
+CcmCDE complex	ccmE // ccmD // ccmC		2294901	2295380
+<i>p</i>-aminobenzoyl-glutamate hydrolase	abgA // abgB		1403255	1404565
+peptidase T	pepT	b1127	1185844	1187070
+catalase/hydroperoxidase HPI	katG	b3942	4133835	4136015
+glycerol facilitator	glpF	b3927	4117245	4118090
+3-hydroxy-2,4-pentadione 5-phosphate thiolase	lsrF	b1517	1606100	1606975
+acid phosphatase / phosphotransferase	aphA	b4055	4269414	4270127
+N-acetylglucosamine-specific PTS enzyme II	nagE	b0679	703944	705890
+resolvasome	ruvA // ruvB // ruvC		1945365	1945976
+multidrug/spermidine efflux pump	mdtI // mdtJ		1672820	1673149
+tRNA m<sup>1</sup>G37 methyltransferase	trmD	b2607	2744572	2745339
+DLP12 prophage; crossover junction endodeoxyribonuclease RusA	rusA	b0550	573371	573733
+formate dehydrogenase N, subcomplex	fdnG // fdnH // fdnI		1547401	1550448
+methylmalonyl-CoA mutase	scpA	b2917	3060850	3062994
+Tar<SUP>glu-Me</SUP>	tar // cheW // cheA		1971030	1972691
+adenine deaminase	adeD	b3665	3843964	3845730
+HipB antitoxin / DNA-binding transcriptional repressor	hipB	b1508	1592176	1592442
+cyclopropane fatty acyl phospholipid synthase	cfa	b1661	1741413	1742561
+ribonucleoside-diphosphate reductase 2, &alpha; subunit dimer	nrdE	b2675	2801348	2803492
+metalloprotease TldDE	tldE // tldD		4457959	4459311
+formate dehydrogenase formation protein	fdhE	b3891	4080299	4081228
+putative ABC transporter ArtPQMI	artP // artQ // artM // artI		903006	903734
+acrylyl-CoA reductase	yhdH	b3253	3403484	3404458
+maltose <i>O</i>-acetyltransferase	maa	b0459	479367	479918
+ribulokinase	araB	b0063	68348	70048
+dethiobiotin synthetase BidA	bidA	b1593	1666524	1667219
+2-hydroxypentadienoate hydratase	mhpD	b0350	372115	372924
+iron-sulfur cluster insertion protein SufA	sufA	b1684	1764018	1764386
+thymidine/deoxyuridine kinase	tdk	b1238	1293527	1294144
+Qin prophage; antitoxin/DNA-binding transcriptional repressor RelB	relB	b1564	1645633	1645872
+inosine/xanthosine triphosphatase	yjjX	b4394	4633233	4633745
+alpha-dehydro-beta-deoxy-D-glucarate aldolase	garL	b3126	3272787	3273557
+N-acetylneuraminate lyase	nanA	b3225	3372683	3373576
+protein/nucleic acid deglycase 3	yajL	b0424	443051	443641
+threonine dehydrogenase	tdh	b3616	3790320	3791345
+MukF dimer	mukF	b0922	974319	975641
+HypCD complex involved in hydrogenase maturation	hypC // hypD		2851864	2852136
+galactitol-1-phosphate 5-dehydrogenase	gatD	b2091	2171833	2172873
+sensor histidine kinase NarX	narX	b1222	1275822	1277618
+disulfide bond oxidoreductase YfcG	yfcG	b2302	2420621	2421268
+triose-phosphate isomerase	tpiA	b3919	4110740	4111507
+sensor histidine kinase TorS	torS	b0993	1053434	1056178
+UMP kinase	pyrH	b0171	191855	192580
+3-oxoacyl-[acyl-carrier-protein] reductase FabG	fabG	b1093	1150670	1151404
+negative regulator of MalT activity/cystathionine &beta;-lyase	malY	b1622	1700957	1702129
+S-formylglutathione hydrolase / S-lactoylglutathione hydrolase	yeiG	b2154	2243910	2244746
+DNA-binding transcriptional repressor LsrR	lsrR	b1512	1600288	1601241
+3-oxoacyl-[acyl carrier protein] synthase 2	fabF	b1095	1151939	1153180
+RNase G	rng	b3247	3396326	3397795
+primosomal replication protein N	priB	b4201	4425520	4425834
+16S rRNA m<sup>3</sup>U1498 methyltransferase	rsmE	b2946	3091134	3091865
+glycine betaine ABC transporter	proX // proW // proV		2807132	2808124
+diaminopimelate epimerase	dapF	b3809	3994762	3995586
+outer membrane porin PhoE	phoE	b0241	259045	260100
+DNA-binding transcriptional repressor MngR	mngR	b0730	765153	765875
+DNA-binding transcriptional dual regulator CRP	crp	b3357	3486120	3486752
+biotin synthase	bioB	b0775	809344	810384
+protoporphyrinogen oxidase	hemG	b3850	4034608	4035153
+branched-chain-amino-acid aminotransferase	ilvE	b3770	3952484	3953413
+RNA polymerase sigma 28	rpoA // rpoC // rpoB // fliA		3440040	3441029
+3-dehydro-D-guloside 4-epimerase	ycjR	b1314	1376034	1376822
+carboxylesterase	yjfP	b4190	4416952	4417701
+GMP synthetase	guaA	b2507	2630958	2632535
+CP4-6 prophage; putative 2-dehydro-3-deoxygluconate aldolase	yagE	b0268	282278	283186
+NarX-<i>N</i>-phospho-L-histidine	narX		1275822	1277618
+glutamate-1-semialdehyde 2,1-aminomutase	hemL	b0154	173602	174882
+spermidine preferential ABC transporter	potD // potC // potB // potA		1181783	1182829
+adenylosuccinate lyase	purB	b1131	1190616	1191986
+CRISPR-associated endoribonuclease Cas2	cas2	b2754	2878569	2878853
+molybdopterin adenylyltransferase	mog	b0009	9306	9893
+putative aminoacrylate hydrolase RutD	rutD	b1009	1070965	1071765
+&alpha;-ketoglutarate-dependent taurine dioxygenase	tauD	b0368	387795	388646
+dTMP kinase	tmk	b1098	1155124	1155765
+5-keto-D-gluconate 5-reductase	idnO	b4266	4492587	4493351
+DNA-binding transcriptional repressor Zur	zur	b4046	4259488	4260003
+tryptophan&mdash;tRNA ligase	trpS	b3384	3512634	3513638
+ornithine carbamoyltransferase	argF	b0273	289301	290305
+putative quinol monooxygenase YgiN	ygiN	b3029	3173142	3173456
+threonine deaminase	ilvA	b3772	3955331	3956875
+dimethyl sulfoxide reductase subunit A // dimethyl sulfoxide reductase subunit B // dimethyl sulfoxide reductase subunit C	dmsC // dmsB // dmsA		944033	944896
+porphobilinogen synthase	hemB	b0369	388753	389727
+diaminopimelate decarboxylase	lysA	b2838	2977637	2978899
+homoserine O-succinyltransferase	metA	b4013	4214280	4215209
+N-acetylglucosamine-6-phosphate deacetylase	nagA	b0677	701603	702751
+KdpD-<i>N</i>-phospho-L-histidine	kdpD		721730	724414
+CcmABCD release complex	ccmA // ccmB // ccmC // ccmD		2297021	2297644
+catalase HPII	katE	b1732	1813867	1816128
+phosphoenolpyruvate synthetase regulatory protein	ppsR	b1703	1787445	1788278
+fused aspartate kinase/homoserine dehydrogenase 1	thrA	b0002	337	2799
+glutathione <i>S</i>-transferase GstA	gstA	b1635	1714377	1714982
+nucleoside triphosphate pyrophosphohydrolase	mazG	b2781	2909894	2910685
+ATP-dependent DNA helicase Rep	rep	b3778	3960677	3962698
+superoxide dismutase (Fe)	sodB	b1656	1735378	1735959
+undecaprenyl-phosphate-alpha-L-Ara4N flippase - ArnE subunit // undecaprenyl-phosphate-alpha-L-Ara4N flippase - ArnF subunit	arnF // arnE		2372892	2373278
+hydroxyethylthiazole kinase	thiM	b2104	2184513	2185301
+L-asparaginase 1	ansA	b1767	1850860	1851876
+divalent metal ion transporter ZupT	zupT	b3040	3182550	3183323
+ATP synthase F<sub>1</sub> complex subunit &beta;	atpD	b3732	3915993	3917375
+cobinamide-P guanylyltransferase / cobinamide kinase	cobU	b1993	2065219	2065764
+L-arabinose isomerase	araA	b0062	66835	68337
+sorbitol-6-phosphate 2-dehydrogenase	srlD	b2705	2827737	2828516
+IS2 insertion element repressor InsA	insC1	b0360	381351	381716
+chemotaxis signaling complex core unit - dipeptide sensing	tap // cheW // cheA		1969383	1970984
+anaerobic ribonucleoside-triphosphate reductase	nrdD	b4238	4460522	4462660
+Trg<SUP>glu</SUP>	trg // cheW // cheA		1492470	1494110
+disulfide reductase / organic hydroperoxide reductase	yghU	b2989	3138727	3139593
+cell division factor ZapD	zapD	b0102	111856	112599
+YhaV-PrlF toxin-antitoxin complex	yhaV // prlF		3277337	3277801
+L-ascorbate-6-phosphate lactonase	ulaG	b4192	4418561	4419625
+nitrite reductase (NADH) small subunit // nitrite reductase (NADH) large subunit	nirB // nirD		3494011	3496554
+adenine phosphoribosyltransferase	apt	b0469	491412	491963
+pyridoxine 5'-phosphate synthase	pdxJ	b2564	2700998	2701729
+aromatic carboxylic acid efflux pump	aaeB // aaeA		3386221	3388188
+UDP-galactopyranose mutase	glf	b2036	2107226	2108329
+Mlc-PtsG	mlc // ptsG		1667344	1668564
+formate channel FocA	focA	b0904	953609	954466
+murein tripeptide ABC transporter	mppA // oppF // oppD // oppC // oppB		1393227	1394840
+3,4-dihydroxy-2-butanone-4-phosphate synthase	ribB	b3041	3183813	3184466
+putative two-component system connector protein AriR	ariR	b1166	1216369	1216635
+1-phosphofructokinase	fruK	b2168	2261427	2262365
+DNA-binding transcriptional repressor PaaX	paaX	b1399	1463539	1464489
+chromosome partitioning protein MukB	mukB	b0924	976326	980786
+cysteine synthase B	cysM	b2421	2538672	2539583
+nucleoside diphosphate kinase	ndk	b2518	2644433	2644864
+aspartate carbamoyltransferase catalytic subunit // aspartate carbamoyltransferase, regulatory subunit	pyrI // pyrB		4470986	4471447
+RNA polymerase, core enzyme	rpoB // rpoC // rpoA		4181245	4185273
+leucine / L-phenylalanine ABC transporter	livF // livG // livH // livM // livK		3592724	3593437
+mannitol-specific PTS enzyme II	mtlA	b3599	3772281	3774194
+FtsLBQ cell division complex	ftsL // ftsB // ftsQ		91032	91397
+protein translocation ATPase	secA	b0098	108279	110984
+mannose-specific PTS enzyme IIAB component	manX	b1817	1902048	1903019
+2-keto-3-deoxy-L-rhamnonate aldolase	yfaU	b2245	2358042	2358845
+D-sedoheptulose 7-phosphate isomerase	gmhA	b0222	243543	244121
+D-galactose / methyl-&beta;-D-galactoside ABC transporter	mglB // mglC // mglA		2239350	2240348
+dethiobiotin synthetase	bioD	b0778	812270	812947
+tyrosine aminotransferase	tyrB	b4054	4267114	4268307
+small conductance mechanosensitive channel YnaI	ynaI	b1330	1394891	1395922
+ferric enterobactin ABC transporter	fepB // fepG // fepD // fepC		623554	624510
+phosphodiesterase YfcE	yfcE	b2300	2419234	2419788
+arylamine <i>N</i>-acetyltransferase	nhoA	b1463	1534024	1534869
+thymidylate synthase	thyA	b2827	2964361	2965155
+2-oxoglutarate decarboxylase, thiamine-requiring	sucA	b0726	758706	761507
+fused DNA-binding transcriptional repressor / proline dehydrogenase / 1-pyrroline-5-carboxylate dehydrogenase PutA	putA	b1014	1074920	1078882
+asparagine synthetase A	asnA	b3744	3927155	3928147
+isoaspartyl dipeptidase / asparaginase 3	iaaA		866568	867533
+galactitol-specific PTS enzyme II	gatA // gatB // gatC		2174597	2175049
+putative carbamoyltransferase YgeW	ygeW	b2870	3006262	3007452
+low-specificity L-threonine aldolase	ltaE	b0870	908293	909294
+enamine/imine deaminase, redox-regulated chaperone	ridA	b4243	4470527	4470913
+3-deoxy-7-phosphoheptulonate synthase, Phe-sensitive	aroG	b0754	785633	786685
+multidrug efflux pump AcrEF-TolC	acrF // acrE // tolC		3415033	3418137
+galactose-1-phosphate uridylyltransferase	galT	b0758	789983	791029
+twin arginine protein translocation system	tatA // tatE // tatC // tatB		4021945	4022214
+oxygen-sensing cyclic di-GMP phosphodiesterase DosP	dosP	b1489	1563334	1565733
+putative PTS enzyme II FrvAB	frvA // frvB		4092377	4092823
+&gamma;-aminobutyraldehyde dehydrogenase	patD	b1444	1515578	1517002
+DNA-binding transcriptional dual regulator DsdC	dsdC	b2364	2476694	2477629
+chemotaxis signaling complex core unit - aspartate sensing	tar // cheW // cheA		1971030	1972691
+aspartate 1-decarboxylase	panD		146314	146694
+thioredoxin reductase	trxB	b0888	931085	932050
+tRNA adenosine<sup>34</sup> deaminase	tadA	b2559	2697354	2697857
+fructose 1,6-bisphosphatase YggF	yggF	b2930	3075217	3076182
+AlaE	alaE	b2670	2799164	2799613
+S-(hydroxymethyl)glutathione dehydrogenase	frmA	b0356	378462	379571
+hydroxypyruvate isomerase	hyi	b0508	535710	536486
+Lon protease	lon	b0439	458888	461242
+cytochrome <i>bd</i>-I ubiquinol:oxygen oxidoreductase	cydH // cydX // cydB // cydA		1737456	1737545
+DNA-binding transcriptional dual regulator IHF	ihfB // ihfA		963828	964112
+quinolinate phosphoribosyltransferase (decarboxylating)	nadC	b0109	117752	118645
+transaldolase B	talB	b0008	8238	9191
+coproporphyrinogen III oxidase	hemF	b2436	2553225	2554124
+arginine:agmatine antiporter	adiC	b4115	4335694	4337031
+polysaccharide export complex	wzc // wza		2133490	2135652
+small conductance mechanosensitive channel MscS	mscS	b2924	3068947	3069807
+peptide antibiotic/peptide nucleic acid transporter	sbmA	b0377	396639	397859
+UDP-N-acetyl-D-mannosamine dehydrogenase	wecC	b3787	3971260	3972522
+dihydroorotase	pyrC	b1062	1121561	1122607
+L-methionine/D-methionine ABC transporter	metQ // metI // metN		220113	220928
+oligoribonuclease	orn	b4162	4391604	4392149
+betaine aldehyde dehydrogenase	betB	b0312	327261	328733
+2-methylisocitrate lyase	prpB	b0331	348682	349572
+replication-associated recombination protein A	rarA	b0892	937994	939337
+isocitrate dehydrogenase	icd	b1136	1195123	1196373
+RffC	rffC	b3790	3974467	3975141
+L-amino acid N-acyltransferase	mnaT	b1448	1518328	1518846
+putrescine ABC transporter	potF // potI // potH // potG		893784	894896
+putative PTS enzyme II SgcBCA	sgcA // sgcC // sgcB		4527549	4527980
+<i>N<sup>5</sup></i>-carboxyaminoimidazole ribonucleotide mutase	purE	b0523	552591	553100
+beta-glucuronidase	uidA	b1617	1694260	1696071
+sulfate/thiosulfate ABC transporter	cysA // cysU // cysW // sbp		2539717	2540814
+&alpha;-D-xyloside xylohydrolase	yicI	b3656	3832219	3834537
+regulator of diguanylate cyclase RdcA	rdcA	b4109	4327135	4329363
+Sec Holo-Translocon	yidC // secE // secG // secY // secD // secF // yajC		3885076	3886722
+transcription termination factor Rho	rho	b3783	3966417	3967676
+rhamnulose-1-phosphate aldolase	rhaD	b3902	4093448	4094272
+glutarate dioxygenase GlaH	glaH	b2659	2788985	2789962
+acetyl-CoA carboxylase complex	accB // accC // accA // accD		3405436	3405906
+small heat shock protein IbpB	ibpB	b3686	3866469	3866897
+D-arabinose 5-phosphate isomerase KdsD	kdsD	b3197	3341266	3342252
+lipoyl synthase	lipA	b0628	659251	660216
+aspartate carbamoyltransferase, regulatory subunit	pyrI	b4244	4470986	4471447
+ferritin iron-storage complex	ftnA	b1905	1988716	1989213
+AMP nucleosidase	amn	b1982	2055061	2056515
+phenylacetyl-CoA thioesterase	paaI	b1396	1460471	1460893
+5-(carboxyamino)imidazole ribonucleotide synthase	purK	b0522	551527	552594
+DNA-binding transcriptional repressor CytR	cytR	b3934	4123431	4124456
+glutathione hydrolase	ggt		3585081	3586823
+putative PTS enzyme II FrwCBDPtsA	ptsA // frwD // frwB // frwC		4139720	4142221
+lipophilic envelope spanning tunnel	letB	b1834	1917510	1920143
+periplasmic protein CpxP	cpxP	b4484	4105820	4106320
+McrB hexamer	mcrB	b4346	4577958	4579337
+DcuS-DctA sensor complex	dcuS // dctA		4350031	4351662
+ferric enterobactin outer membrane transport complex	fepA // tonB // exbB // exbD		610254	612494
+putative transport complex, ABC superfamily	ybbA // ybbP		519733	520419
+isocitrate lyase	aceA	b4015	4217109	4218413
+diguanylate cyclase DgcZ	dgcZ	b1535	1622960	1623850
+ubiquinone biosynthesis complex UbiUV	ubiU // ubiV		3301485	3302480
+Na<sup>+</sup>:H<sup>+</sup> antiporter NhaA	nhaA	b0019	17489	18655
+outer membrane porin C	ompC	b2215	2311646	2312749
+putative 3-phenylpropionate/cinnamate dioxygenase	hcaE // hcaF // hcaD // hcaC		2669032	2670393
+bacterioferritin	bfr	b3336	3466249	3466725
+adenylyl-sulfate kinase	cysC	b2750	2873387	2873992
+phenylhydantoinase	hyuA	b2873	3010028	3011413
+molybdopterin-synthase adenylyltransferase	moeB	b0826	864380	865129
+23S rRNA m<sup>3</sup>&Psi;1915 methyltransferase	rlmH	b0636	668248	668715
+molybdenum cofactor insertion chaperone PaoD	paoD	b0283	297770	298726
+glutathionyl-hydroquinone reductase YqjG	yqjG	b3102	3251024	3252010
+putative oxidoreductase YdjA	ydjA	b1765	1848125	1848676
+argininosuccinate synthetase	argG	b3172	3318637	3319980
+carbon-phosphorus lyase core complex	phnJ // phnI // phnH // phnG		4318761	4319606
+FtsH/HflKC protease complex	ftsH // hflK // hflC		3325001	3326935
+MqsA-MqsR antitoxin/toxin complex	mqsR // mqsA		3168248	3168544
+3-hydroxy acid dehydrogenase YdfG	ydfG	b1539	1627517	1628263
+zinc-binding phosphatase YcdX	ycdX	b1034	1098879	1099616
+gamma-butyrobetainyl-CoA:carnitine CoA transferase	caiB	b0038	37898	39115
+carnitine monooxygenase	yeaW // yeaX		1884665	1885789
+xanthosine phosphorylase	xapA	b2407	2524045	2524878
+biotin carboxylase	accC	b3256	3405917	3407266
+glutathione <i>S</i>-transferase YfcF	yfcF	b2301	2419841	2420485
+glucose-6-phosphate isomerase	pgi	b4025	4233758	4235407
+&beta;-glucoside specific PTS enzyme II / BglG kinase / BglG phosphatase	bglF	b3722	3903720	3905597
+Tap<SUP>glu-Me</SUP>	tap // cheW // cheA		1969383	1970984
+putative oligopeptide ABC transporter ATP binding subunit YejF // putative oligopeptide ABC transporter membrane subunit YejB // putative oligopeptide ABC transporter membrane subunit YejE // putative oligopeptide ABC transporter periplasmic binding protein YejA	yejA // yejE // yejB // yejF		2272364	2274178
+7-alpha-hydroxysteroid dehydrogenase	hdhA	b1619	1697273	1698040
+isocitrate dehydrogenase-P	icd		1195123	1196373
+<i>N</i>-acetylornithine aminotransferase / <i>N</i>-succinyldiaminopimelate aminotransferase	argD	b3359	3488960	3490180
+antitoxin/DNA-binding transcriptional repressor YefM	yefM	b2017	2089462	2089713
+heat shock protein HspQ	hspQ	b0966	1028404	1028721
+UDP-N-acetylglucosamine 2-epimerase	wecB	b3786	3970133	3971263
+tripartite efflux pump EmrKY-TolC	emrY // emrK // tolC		2480638	2482176
+galactofuranose ABC transporter	ytfQ // ytfT // ytfR // yjfF		4449962	4450918
+DNA-binding transcriptional dual regulator AsnC	asnC	b3743	3926545	3927003
+ubiquinol&mdash;[NapC cytochrome <i>c</i>] reductase NapGH	napH // napG		2298715	2299578
+aspartate ammonia-lyase	aspA	b4139	4366891	4368327
+anthranilate synthase subunit TrpE // anthranilate synthase subunit TrpD	trpD // trpE		1319789	1321384
+HslU hexamer	hslU	b3931	4120416	4121747
+asparagine--tRNA ligase	asnS	b0930	987585	988985
+dCMP phosphohydrolase	yfbR	b2291	2408862	2409461
+N<sup>6</sup>-L-threonylcarbamoyladenine synthase, TsaB-TsaD dimer subunit	tsaD // tsaB		3209530	3210543
+ClpP serine protease	clpP	b0437	456677	457300
+peptidyl-prolyl <i>cis-trans</i> isomerase FklB	fklB	b4207	4428935	4429555
+xanthine-guanine phosphoribosyltransferase	gpt	b0238	255977	256435
+flagellum	fliD // fliC // flgL // flgK // flgE // flgH // motA // motB // flgB // flgC // flgF // flgG // flgI // fliF // fliG // fliM // fliN		2003872	2005278
+c-di-GMP-binding biofilm dispersal mediator protein	bdcA	b4249	4473340	4474053
+protein/nucleic acid deglycase 1	hchA	b1967	2035835	2036686
+FMN dependent NADH:quinone oxidoreductase	azoR	b1412	1482255	1482860
+curli assembly component CsgF // curli secretion channel	csgG // csgF		1100851	1101684
+fructoselysine 6-phosphate deglycase	frlB	b3371	3501268	3502290
+5-oxoprolinase	pxpA // pxpB // pxpC		745165	745899
+methylmalonyl-CoA decarboxylase	scpB	b2919	3063993	3064778
+glycine cleavage system	gcvT // gcvH // gcvP // lpd		3049573	3050667
+fumarase B	fumB	b4122	4345680	4347326
+cell division protein ZapA	zapA	b2910	3055612	3055941
+NusB-S10 complex	nusB // rpsJ		435137	435556
+succinate:quinone oxidoreductase subcomplex	sdhA // sdhB // sdhC // sdhD		755907	757673
+D-aminoacyl-tRNA deacylase	dtd	b3887	4077015	4077452
+DosC-DosP complex	dosC // dosP		1565758	1567140
+cysteine sulfinate desulfinase	csdA	b2810	2943337	2944542
+glyceraldehyde-3-phosphate dehydrogenase A	gapA	b1779	1862771	1863766
+3-aminoacrylate deaminase	rutC	b1010	1071773	1072159
+3-methyl-2-oxobutanoate hydroxymethyltransferase	panB	b0134	148807	149601
+voltage-gated K<sup>+</sup> channel	kch	b1250	1309016	1310269
+serine protease inhibitor ecotin	eco	b2209	2303905	2304393
+ClpA ATP-dependent protease specificity component and chaperone	clpA	b0882	923264	925540
+RNA-binding protein Hfq	hfq	b4172	4400288	4400596
+trans-2-enoyl-CoA reductase (NADPH)				
+isoaspartyl dipeptidase	iadA	b4328	4558354	4559526
+tRNA Cm32/Um32 methyltransferase	trmJ	b2532	2662583	2663323
+polyphosphate kinase	ppk	b2501	2623044	2625110
+heme-containing peroxidase/deferrochelatase	efeB	b1019	1083376	1084647
+galactoside O-acetyltransferase	lacA	b0342	361249	361860
+tryptophan synthase subunit alpha // tryptophan synthase, beta subunit dimer	trpB // trpA		1317222	1318415
+RNA polymerase sigma 32	rpoH // rpoA // rpoC // rpoB		3599929	3600783
+NAD(P)H-dependent nitroreductase NfsB	nfsB	b0578	604771	605424
+DNA binding transcriptional dual regulator ChbR	chbR	b1735	1818605	1819447
+putative PTS enzyme II FryBCA	fryA // fryB // fryC		2501990	2504485
+stationary phase nucleoid component that sequesters iron and protects DNA from damage	dps	b0812	848408	848911
+RNA polymerase sigma 70	rpoD // rpoA // rpoC // rpoB		3213047	3214888
+iron-catecholate outer membrane transport complex II	cirA // tonB // exbB // exbD		2244778	2246769
+sulfurtransferase complex TusBCD	tusD // tusC // tusB		3475332	3475718
+cytochrome <i>bo<sub>3</sub></i> ubiquinol:oxygen oxidoreductase	cyoC // cyoB // cyoA // cyoD		448046	448660
+6-N-hydroxylaminopurine resistance protein	ycbX	b0947	1006491	1007600
+aliphatic sulfonate ABC transporter	ssuB // ssuC // ssuA		993277	994044
+7-cyano-7-deazaguanine reductase	queF	b2794	2925348	2926196
+regulatory ATPase RavA	ravA	b3746	3929597	3931093
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ispF	b2746	2871301	2871780
+ribonucleoside-diphosphate reductase 1	nrdB // nrdA		2347384	2348514
+holo-[acyl-carrier-protein] synthase	acpS	b2563	2700618	2700998
+aspartate&mdash;tRNA ligase	aspS	b1866	1948750	1950522
+2,3-diaminopropionate ammonia-lyase	ygeX	b2871	3007510	3008706
+trehalose-specific PTS enzyme II	crr // treB		2535834	2536343
+catabolic threonine dehydratase	tdcB	b3117	3265039	3266028
+glutamate-5-semialdehyde dehydrogenase	proA	b0243	261503	262756
+ureidoglycolate dehydrogenase	allD	b0517	545314	546363
+NADH:quinone oxidoreductase I	nuoB // nuoC // nuoE // nuoF // nuoG // nuoI // nuoN // nuoM // nuoL // nuoK // nuoJ // nuoH // nuoA		2403951	2404613
+quinate/shikimate dehydrogenase	ydiB	b1692	1773789	1774655
+GroEL-GroES chaperonin complex	groS // groL		4370688	4370981
+transcriptional antiterminator BglG	bglG	b3723	3905731	3906567
+pyruvate formate-lyase (inactive)	pflB	b0903	951272	953554
+purine nucleoside phosphoramidase	hinT	b1103	1161885	1162244
+3-isopropylmalate dehydratase	leuD // leuC		78848	79453
+aminopeptidase A/I and DNA-binding transcriptional repressor PepA	pepA	b4260	4484440	4485951
+pyruvate kinase 1	pykF	b1676	1755698	1757110
+glycine betaine ABC transporter, non-osmoregulatory	yehW // yehX // yehY // osmF		2215745	2216476
+free methionine-(<i>R</i>)-sulfoxide reductase	msrC	b1832	1915631	1916128
+NarQ-<i>N</i>-phospho-L-histidine	narQ		2585731	2587431
+protein disulfide isomerase DsbC	dsbC	b2893	3038112	3038822
+fused acetaldehyde-CoA dehydrogenase and iron-dependent alcohol dehydrogenase	adhE	b1241	1295446	1298121
+tellurite methyltransferase	tehB	b1430	1501562	1502155
+methionine transaminase	ybdL	b0600	633586	634746
+ribonucleoside-diphosphate reductase 1, &alpha; subunit dimer	nrdA	b2234	2344865	2347150
+DNA-binding transcriptional activator CaiF	caiF	b0034	34300	34695
+glycine decarboxylase	gcvP	b2903	3046168	3049041
+The Tol-Pal Cell Envelope Complex	tolQ // tolR // tolB // tolA // pal		775153	775845
+Tsr<SUP>glu</SUP>	tsr // cheA // cheW		4591657	4593312
+tetrahydrodipicolinate succinylase	dapD	b0166	185123	185947
+2,3-diketo-L-gulonate:Na+ symporter - periplasmic binding protein // 2,3-diketo-L-gulonate:Na+ symporter - membrane subunit // 2,3-diketo-L-gulonate:Na+ symporter - membrane subunit	yiaM // yiaN // yiaO		3744328	3744801
+hydrogenase isozymes nickel incorporation protein HypB	hypB	b2727	2851001	2851873
+protease IV, a signal peptide peptidase	sppA	b1766	1848837	1850693
+glucose-specific PTS enzyme II	crr // ptsG		2535834	2536343
+D-alanyl-D-alanine carboxypeptidase DacA	dacA	b0632	662752	663963
+glucose-1-phosphate thymidylyltransferase 2	rffH	b3789	3973608	3974489
+DNA-binding transcriptional repressor MarR	marR	b1530	1619120	1619554
+lactaldehyde reductase	fucO	b2799	2931865	2933013
+ribonucleoside-diphosphate reductase 1, &beta; subunit dimer	nrdB	b2235	2347384	2348514
+phosphoenolpyruvate synthetase	ppsA	b1702	1784734	1787112
+glutathione ABC transporter	gsiC // gsiD // gsiB // gsiA		870967	871887
+DNA-binding transcriptional dual regulator ArgP	argP	b2916	3059753	3060646
+5-carboxymethylaminomethyluridine-tRNA synthase subunit MnmG	mnmG	b3741	3923744	3925633
+antitoxin/DNA-binding transcriptional repressor HigA	higA	b3082	3233728	3234144
+protein MoaB	moaB	b0782	818055	818567
+activated pyruvate-formate lyase	pflB		951272	953554
+aerobic glycerol 3-phosphate dehydrogenase	glpD	b3426	3562013	3563518
+2-hydroxy-6-oxononatrienedioate hydrolase	mhpC	b0349	371239	372105
+chaperone protein DnaJ	dnaJ	b0015	14168	15298
+formate hydrogenlyase complex	hycD // hycC // hycF // hycG // hycB // hycE // fdhF		2846489	2847412
+carbonic anhydrase 1	cynT	b0339	358799	359458
+peptidyl-prolyl <i>cis-trans</i> isomerase/OMP chaperone FkpA	fkpA	b3347	3476607	3477419
+predicted xanthine dehydrogenase	ygfM // xdhD		3020540	3021319
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase	ispH	b0029	26277	27227
+fructose-1,6-bisphosphatase 1	fbp	b4232	4454611	4455609
+ATP phosphoribosyltransferase	hisG	b2019	2090192	2091091
+energy transducing Ton complex	exbD // exbB // tonB		3150818	3151243
+aldehyde dehydrogenase A, NAD-linked	aldA	b1415	1488232	1489671
+pyrimidine-specific ribonucleoside hydrolase RihA	rihA	b0651	683477	684412
+outer membrane phospholipase A	pldA	b3821	4004862	4005731
+4-hydroxythreonine-4-phosphate dehydrogenase	pdxA	b0052	52427	53416
+asparagine synthetase B	asnB	b0674	697513	699177
+D-alanine&mdash;D-alanine ligase B	ddlB	b0092	102233	103153
+2-oxoglutarate dehydrogenase E2 subunit	sucB	b0727	761522	762739
+pyruvate oxidase	poxB	b0871	909331	911049
+D-gluconate kinase, thermostable	gntK	b3437	3577065	3577592
+small heat shock protein IbpA	ibpA	b3687	3867009	3867422
+putrescine ABC exporter	sapD // sapB // sapC // sapF		1352636	1353628
+RNA polymerase sigma 54	rpoN // rpoA // rpoC // rpoB		3344717	3346150
+glutamate dehydrogenase	gdhA	b1761	1842371	1843714
+exodeoxyribonuclease V	recB // recC // recD		2952461	2956003
+ribonucleoside-diphosphate reductase 2	nrdF // nrdE		2803502	2804461
+enolase	eno	b2779	2906643	2907941
+glutamate-putrescine ligase	puuA	b1297	1359490	1360908
+imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase	hisB	b2022	2093468	2094535
+Sec translocon accessory complex	yajC // secF // secD		427287	427619
+alanine racemase 1	alr	b4053	4265782	4266861
+DNA-binding transcriptional repressor LexA	lexA	b4043	4257115	4257723
+putative tRNA/rRNA methyltransferase YjtD	yjtD	b4403	4640942	4641628
+serine&mdash;tRNA ligase	serS	b0893	939428	940720
+pantothenate kinase	coaA	b3974	4174076	4175026
+D-lactate dehydrogenase	ldhA	b1380	1441854	1442843
+carbon-phosphorus lyase system	phnL // phnK // phnG // phnH // phnI // phnJ		4317215	4317895
+ribonucleoside-diphosphate reductase 2, &beta; subunit dimer	nrdF	b2676	2803502	2804461
+bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	thiD	b2103	2183716	2184516
+sensor histidine kinase NarQ	narQ	b2469	2585731	2587431
+pyruvate dehydrogenase	aceE	b0114	123017	125680
+agmatinase	speB	b2937	3082877	3083797
+6-carboxy-5,6,7,8-tetrahydropterin synthase	queD	b2765	2892214	2892579
+MazE-MazF antitoxin/toxin complex / DNA-binding transcriptional repressor	mazE // mazF		2911091	2911339
+pseudouridine-5'-phosphate glycosidase	psuG	b2165	2257429	2258367
+glutaminase 2	glsB	b1524	1612325	1613251
+PFL-GrcA complex	pflB // grcA		951272	953554
+succinyl-CoA synthetase subunit alpha // succinyl-CoA synthetase subunit beta	sucC // sucD		763014	764180
+succinate semialdehyde dehydrogenase (NAD(P)<sup>+</sup>) Sad	sad	b1525	1613315	1614703
+DNA-binding transcriptional repressor FrmR	frmR	b0357	379606	379881
+xylulokinase	xylB	b3564	3727917	3729371
+cytosine/isoguanine deaminase	codA	b0337	356171	357454
+SecYEG translocon	secY // secG // secE		3442766	3444097
+UDP-glucose 6-dehydrogenase	ugd	b2028	2098447	2099613
+Tar<SUP>glu</SUP>	tar // cheW // cheA		1971030	1972691
+putative nucleoid-associated protein YbaB	ybaB	b0471	494076	494405
+1-deoxy-D-xylulose 5-phosphate reductoisomerase	dxr	b0173	193521	194717
+dihydroneopterin triphosphate 2'-epimerase	folX	b2303	2421325	2421687
+D-ribose pyranase	rbsD	b3748	3933351	3933770
+TorS-phospho-L-aspartate-723	torS		1053434	1056178
+GTP cyclohydrolase 2	ribA	b1277	1338570	1339160
+NADH dehydrogenase (quinone)				
+maltodextrin phosphorylase	malP	b3417	3550080	3552473
+ATP synthase F<sub>o</sub> complex - subunit c	atpE	b3737	3920950	3921189
+acetyl-CoA carboxyltransferase subunit alpha // acetyl-CoA carboxyltransferase subunit beta	accD // accA		2433012	2433926
+orotate phosphoribosyltransferase	pyrE	b3642	3815127	3815768
+malate dehydrogenase (oxaloacetate-decarboxylating)	maeA	b1479	1553972	1555669
+acetyl-CoA:oxalate CoA-transferase	yfdE	b2371	2488023	2489168
+exopolyphosphatase	ppx	b2502	2625115	2626656
+PhnK dimer	phnK	b4097	4318006	4318764
+DNA-binding transcriptional dual regulator MetR	metR	b3828	4011863	4012816
+dTDP-glucose 4,6-dehydratase 1	rfbB	b2041	2111976	2113061
+3-dehydroquinate dehydratase	aroD	b1693	1774686	1775444
+multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1	tesA	b0494	519139	519765
+pantothenate synthetase	panC	b0133	147944	148795
+phosphoglycerate dehydrogenase	serA	b2913	3057178	3058410
+3-octaprenyl-4-hydroxybenzoate decarboxylase	ubiD	b3843	4024988	4026481
+DNA-binding transcriptional activator UhpA-phosphorylated	uhpA	b3669	3850136	3850726
+&beta; sliding clamp	dnaN	b3701	3881221	3882321
+taurine ABC transporter periplasmic binding protein // taurine ABC transporter membrane subunit // taurine ABC transporter ATP binding subunit	tauB // tauC // tauA		386207	386974
+transketolase 2	tktB	b2465	2579636	2581639
+methionine&mdash;tRNA ligase	metG	b2114	2194300	2196333
+Xaa-Pro dipeptidase	pepQ	b3847	4031161	4032492
+L-carnitine:gamma-butyrobetaine antiporter	caiT	b0040	40417	41931
+nucleotide 5'-monophosphate nucleosidase	ppnN	b2795	2926308	2927672
+1,4-dihydroxy-2-naphthoyl-CoA hydrolase	menI	b1686	1765222	1765632
+dihydromonapterin reductase	folM	b1606	1680976	1681698
+carbamoyl-phosphate synthetase, glutamine-hydrolyzing	carA // carB		29651	30799
+allantoinase	allB	b0512	539147	540508
+serine acetyltransferase	cysE	b3607	3781741	3782562
+DNA-binding transcriptional repressor ArsR	arsR	b3501	3648528	3648881
+guanosine-5'-triphosphate,3'-diphosphate phosphatase	gpp	b3779	3962745	3964229
+homoserine kinase	thrB	b0003	2801	3733
+UTP--glucose-1-phosphate uridylyltransferase	galU	b1236	1291457	1292365
+UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase	rfe	b3784	3967916	3969019
+<I>N</I>-acetyl-D-galactosamine specific PTS (cryptic)	agaW // agaV		3280701	3281102
+&beta;-hydroxyacyl-acyl carrier protein dehydratase/isomerase	fabA	b0954	1015952	1016470
+CreC-<i>N</i>-phospho-L-histidine	creC		4636696	4638120
+molybdate ABC transporter	modA // modB // modC		795089	795862
+formyl-CoA transferase	frc	b2374	2492004	2493254
+succinyl-diaminopimelate desuccinylase	dapE	b2472	2591607	2592734
+fimbrial complex	fimH // fimG // fimF // fimA		4548808	4549710
+dipeptide ABC transporter	dppA // dppC // dppB // dppF // dppD		3706098	3707705
+chorismate synthase	aroC	b2329	2446388	2447473
+DNA-binding transcriptional dual regulator ModE	modE	b0761	793856	794644
+isochorismate synthase MenF	menF	b2265	2379348	2380643
+arginine decarboxylase, degradative	adiA	b4117	4338254	4340521
+putative ethanolamine catabolic microcompartment shell protein EutN	eutN	b2456	2571763	2572050
+sensor histidine kinase EvgS	evgS	b2370	2484374	2487967
+spermidine <i>N</i>-acetyltransferase	speG	b1584	1656184	1656744
+allose-6-phosphate isomerase / ribose-5-phosphate isomerase B	rpiB	b4090	4313350	4313799
+long-chain-fatty-acid&mdash;CoA ligase	fadD	b1805	1888061	1889746
+acyl-CoA thioesterase II	tesB	b0452	474301	475161
+DNA-binding transcriptional repressor PurR	purR	b1658	1737844	1738869
+constitutive ornithine decarboxylase	speC	b2965	3107020	3109155
+DNA-binding transcriptional repressor TrpR	trpR	b4393	4632760	4633086
+putative transport complex, ABC superfamily	ycjV // ycjN // ycjO // ycjP		1380821	1381789
+putative transport complex, ABC superfamily	ynjB // ynjD // ynjC		1836073	1837239
+L(+)-tartrate dehydratase subunit alpha // L(+)-tartrate dehydratase subunit beta	ttdB // ttdA		3207371	3207976
+GDP-mannose 4,6-dehydratase	gmd	b2053	2127193	2128314
+GDP-mannose mannosyl hydrolase	gmm	b2051	2125743	2126222
+<i>N</i>-succinylarginine dihydrolase	astB	b1745	1826916	1828259
+intermembrane transport protein PqiB	pqiB	b0951	1013259	1014899
+anaerobic fatty acid &beta;-oxidation complex	fadJ // fadI		2457015	2459159
+PF03887 family protein YfbU	yfbU	b2294	2412100	2412594
+EF-P-lysine lysyltransferase	epmA	b4155	4382643	4383620
+cell shape determining protein MreC	mreC	b3250	3398875	3399978
+D-allose ABC transporter ATP binding subunit // D-allose ABC transporter membrane subunit // D-allose ABC transporter periplasmic binding protein	alsB // alsC // alsA		4311107	4312042
+aldehyde dehydrogenase B	aldB	b3588	3754973	3756511
+ammonium transporter	amtB	b0451	472966	474252
+ribonuclease E inhibitor protein A	rraA	b3929	4118845	4119330
+fused heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase	hldE	b3052	3195320	3196753
+hydrogenase 1, oxygen tolerant hydrogenase	hyaA // hyaB // hyaC		1032139	1033257
+Tar<SUP>gln</SUP>	tar // cheW // cheA		1971030	1972691
+methyl-accepting chemotaxis protein Tar	tar	b1886	1971030	1972691
+N-acetylmuramic acid-specific PTS enzyme II	crr // murP		2535834	2536343
+3-hydroxy-acyl-[acyl-carrier-protein] dehydratase	fabZ	b0180	202101	202556
+2,3-diketo-L-gulonate reductase	yiaK	b3575	3742733	3743731
+glyoxylate reductase	ghrB	b3553	3717310	3718284
+putative multidrug efflux pump MdtNOP	mdtN // mdtO // mdtP		4303078	4304109
+maltose outer membrane channel / phage lambda receptor protein	lamB	b4036	4247971	4249311
+DNA polymerase III, &psi;-&chi; dimer	holD // holC		4607803	4608216
+evolved &beta;-D-galactosidase	ebgC // ebgA		3225722	3226171
+diguanylate cyclase DgcE	dgcE	b2067	2143266	2146583
+methyl-accepting chemotaxis protein - serine-sensing	tsr	b4355	4591657	4593312
+D-amino acid dehydrogenase	dadA	b1189	1237571	1238869
+isovaleryl-CoA dehydrogenase and DNA-binding transcriptional repressor	aidB	b4187	4414275	4415900
+dihydroxy-acid dehydratase	ilvD	b3771	3953478	3955328
+GDP-mannose hydrolase	nudK	b2467	2582903	2583478
+aerobic fatty acid oxidation complex	fadA // fadB		4027609	4028772
+xylose ABC transporter	xylF // xylH // xylG		3731131	3732123
+fructoselysine 3-epimerase	frlC	b4474	3502340	3503170
+L-glutamine ABC transporter	glnH // glnP // glnQ		847258	848004
+aspartate-semialdehyde dehydrogenase	asd	b3433	3573775	3574878
+iron(III) hydroxamate ABC transporter	fhuD // fhuB // fhuC		170575	171465
+Autoinducer-2 ABC transporter periplasmic binding protein // Autoinducer-2 ABC transporter membrane subunit LsrD // Autoinducer-2 ABC transporter membrane subunit LsrC // Autoinducer-2 ABC transporter ATP binding subunit	lsrA // lsrC // lsrD // lsrB		1601490	1603025
+fused aspartate kinase/homoserine dehydrogenase 2	metL	b3940	4129835	4132267
+DNA polymerase III, preinitiation complex	holA // holB // dnaX		670574	671605
+D-arabinose 5-phosphate isomerase GutQ	gutQ	b2708	2829813	2830778
+RNA polymerase sigma 24	rpoE // rpoA // rpoC // rpoB		2709437	2710012
+superoxide dismutase (Mn)	sodA	b3908	4100810	4101430
+L-xylulose kinase	lyxK	b3580	3747084	3748580
+riboflavin synthase	ribC	b1662	1742601	1743242
+ribose-5-phosphate isomerase A	rpiA	b2914	3058666	3059325
+DNA-binding transcriptional dual regulator MurR	murR	b2427	2544752	2545609
+DNA-binding transcriptional dual regulator FNR	fnr	b1334	1398774	1399526
+phosphate acetyltransferase	pta	b2297	2414747	2416891
+Cas1-Cas2 complex	cas1 // cas2		2878855	2879772
+universal stress protein A	uspA	b3495	3640111	3640545
+soluble pyridine nucleotide transhydrogenase	sthA	b3962	4159390	4160790
+lipid hydroperoxide peroxidase	tpx	b1324	1388305	1388811
+succinate-semialdehyde dehydrogenase (NADP<sup>+</sup>) GabD	gabD	b2661	2791273	2792721
+5-carboxymethylaminomethyluridine-tRNA synthase GTPase subunit // 5-carboxymethylaminomethyluridine-tRNA synthase subunit MnmG	mnmG // mnmE		3923744	3925633
+thiosulfate/sulfate ABC transporter	cysP // cysU // cysW // cysA		2542512	2543528
+peptidase D	pepD	b0237	254259	255716
+TorS-<i>N</i>-phospho-L-histidine-443	torS		1053434	1056178
+NtrC phosphorylated dimer	glnG		4053869	4055278
+molybdopterin synthase	moaE // moaD		819295	819747
+carbonic anhydrase 2	can	b0126	142008	142670
+DNA-binding transcriptional dual regulator TorR-phosphorylated	torR		1057262	1057954
+aspartate kinase III	lysC	b4024	4231884	4233233
+ATP synthase F<sub>1</sub> complex	atpD // atpG // atpA // atpH // atpC		3915993	3917375
+histidinal/histidinol dehydrogenase	hisD	b2020	2091097	2092401
+BglG - his101 phosphorylated	bglG		3905731	3906567
+PhnL dimer	phnL	b4096	4317215	4317895
+sensor histidine kinase EnvZ	envZ	b3404	3534516	3535868
+murein lipoprotein	lpp	b1677	1757421	1757657
+ferric citrate ABC transporter	fecB // fecD // fecC // fecE		4513406	4514308
+DNA-binding transcriptional dual regulator AraC	araC	b0064	70387	71265
+monoacetylchitobiose-6-phosphate hydrolase	chbF	b1734	1817148	1818500
+amidophosphoribosyltransferase	purF	b2312	2428721	2430238
+tRNA-guanine transglycosylase	tgt	b0406	426137	427264
+amino acid racemase YgeA	ygeA	b2840	2979943	2980635
+L-ascorbate specific PTS enzyme II	ulaA // ulaB // ulaC		4419980	4421377
+serine endoprotease	degS	b3235	3382200	3383267
+pyrimidine-specific ribonucleoside hydrolase RihB	rihB	b2162	2254245	2255186
+3-deoxy-D-<i>manno</i>-octulosonate 8-phosphate synthase	kdsA	b1215	1268165	1269019
+DNA-binding transcriptional dual regulator TorR	torR	b0995	1057262	1057954
+dTDP-4-dehydro-6-deoxy-D-glucose transaminase	wecE	b3791	3975146	3976276
+3-sulfolactaldehyde reductase	yihU	b3882	4072675	4073571
+osmotically inducible peroxiredoxin OsmC	osmC	b1482	1556625	1557056
+ATP synthase F<sub>o</sub> complex - subunit b	atpF	b3736	3920418	3920888
+ATP-dependent Lipid A-core flippase	msbA	b0914	966621	968369
+nucleoside triphosphate pyrophosphatase YhdE	yhdE	b3248	3397785	3398378
+acetolactate synthase / acetohydroxybutanoate synthase, catalytic subunit // acetolactate synthase / acetohydroxybutanoate synthase, regulatory subunit	ilvH // ilvI		87357	87848
+pyruvate dehydrogenase // pyruvate dehydrogenase E2 subunit // lipoamide dehydrogenase	lpd // aceF // aceE		127912	129336
+Xer site-specific recombination system	xerD // xerC		3038847	3039743
+hydrogenase 2	hybA // hybB // hybO // hybC		3144154	3145140
+<i>ditrans,polycis</i>-undecaprenyl-diphosphate synthase [(2<i>E</i>,6<i>E</i>)-farnesyl-diphosphate specific]	ispU	b0174	194903	195664
+4-hydroxy-tetrahydrodipicolinate reductase	dapB	b0031	28374	29195
+dUTP diphosphatase	dut	b3640	3813929	3814387
+thiosulfate sulfurtransferase YgaP	ygaP	b2668	2797520	2798044
+universal stress protein C	uspC	b1895	1979753	1980181
+transcriptional activator RhaS	rhaS	b3905	4097736	4098572
+oxidized flavorubredoxin	norV		2832476	2833915
+<i>N</i>-acetylmuramic acid 6-phosphate etherase	murQ	b2428	2545773	2546669
+putative transport complex, ABC superfamily	yadH // yadG		143702	144472
+copper/silver export system	cusA // cusF // cusB // cusC		598714	601857
+thymidine phosphorylase	deoA	b4382	4618229	4619551
+sensor histidine kinase HprS	hprS	b1968	2036794	2038152
+OmpR dimer	ompR	b3405	3535865	3536584
+FKBP-type peptidyl-prolyl <i>cis-trans</I> isomerase SlyD	slyD	b3349	3477907	3478497
+peptidoglycan DD-endopeptidase/peptidoglycan LD-endopeptidase	mepA	b2328	2445560	2446384
+glutamine synthetase	glnA	b3870	4056625	4058034
+D-erythrose-4-phosphate dehydrogenase	epd	b2927	3072672	3073691
+RNA decapping hydrolase	nudC	b3996	4196903	4197676
+protein sulfenic acid reductase and chaperone DsbG	dsbG	b0604	637827	638573
+gamma-glutamyl-gamma-aminobutyrate hydrolase	puuD	b1298	1361120	1361884
+BglG - his208 phosphorylated	bglG		3905731	3906567
+fumarate reductase flavoprotein subunit // fumarate reductase iron-sulfur protein // fumarate reductase membrane protein FrdC // fumarate reductase membrane protein FrdD	frdD // frdC // frdB // frdA		4379007	4379366
+tRNA (cytidine/uridine-2'-<i>O</i>)-ribose methyltransferase	trmL	b3606	3781215	3781688
+23S rRNA 2'-<i>O</i>-ribose G2251 methyltransferase	rlmB	b4180	4409275	4410006
+3-keto-L-gulonate-6-phosphate decarboxylase UlaD	ulaD	b4196	4422186	4422836
+DNA-binding transcriptional dual regulator PspF	pspF	b1303	1366935	1367912
+&beta;-glucoside specific PTS enzyme II	ascF	b2715	2839524	2840981
+sensor histidine kinase AtoS	atoS	b2219	2320043	2321869
+tartronate semialdehyde reductase 2	glxR	b0509	536586	537464
+6,7-dimethyl-8-ribityllumazine synthase	ribE	b0415	434647	435117
+phenylacetyl-CoA 1,2-epoxidase	paaB // paaC // paaA // paaE		1454868	1455155
+PBP1B&gamma;	mrcB	b0149	164730	167264
+galactosamine-specific PTS enzyme II (cryptic)	agaD // agaC // agaB		3285478	3286269
+fused glutathionylspermidine amidase / glutathionylspermidine synthetase	gss	b2988	3136663	3138522
+fructose-1,6-bisphosphatase 2	glpX	b3925	4114569	4115579
+PaaF-PaaG hydratase-isomerase complex	paaF // paaG		1457497	1458264
+glutamate synthase	gltD // gltB		3359198	3360616
+tryptophanase	tnaA	b3708	3888730	3890145
+PhoR-<i>N</i>-phospho-L-histidine	phoR		417889	419184
+cupric reductase RclA	rclA	b0304	318676	320001
+dihydroxyacetone kinase	dhaM // dhaL // dhaK		1247696	1249114
+lysine / arginine / ornithine ABC transporter	argT // hisM // hisP // hisQ		2427009	2427791
+L-fucose isomerase	fucI	b2802	2935584	2937359
+6-phosphofructokinase 2	pfkB	b1723	1806370	1807299
+CRISPR-associated complex for antiviral defense	casE // casD // casC // casB // casA		2879788	2880387
+carboxy-S-adenosyl-L-methionine synthase	cmoA	b1870	1952702	1953445
+bifunctional methylenetetrahydrofolate dehydrogenase / methenyltetrahydrofolate cyclohydrolase	folD	b0529	556875	557741
+phosphate ABC transporter	pstS // pstC // pstA // pstB		3910485	3911525
+aminopeptidase YpdF	ypdF	b2385	2505547	2506632
+diguanylate cyclase DgcM	dgcM	b1341	1406563	1407795
+DNA replication inhibitor CspD	cspD	b0880	922366	922590
+hydroxyisourate hydrolase / transthyretin-related protein	hiuH	b1970	2038956	2039369
+copper-containing amine oxidase	tynA	b1386	1449076	1451349
+ZntR-Zn<sup>2+</sup> DNA-binding transcriptional activator	zntR		3438705	3439130
+putative menaquinol-cytochrome <i>c</i> reductase NrfCD	nrfC // nrfD		4289808	4290479
+radiation resistance protein YbgI	ybgI	b0710	742827	743570
+16S rRNA 2'-O-ribose C1402 methyltransferase	rsmI	b3146	3292475	3293335
+DNA-binding transcriptional dual regulator ArgR	argR	b3237	3384703	3385173
+DinJ-YafQ-phosphate	dinJ // yafQ		246242	246502
+DnaA initiator-associating protein DiaA	diaA	b3149	3295809	3296399
+ferric citrate outer membrane transport complex	tonB // exbB // exbD // fecA		1311089	1311808
+DNA-binding transcriptional repressor MetJ-<i>S</i>-adenosyl-L-methionine	metJ		4128078	4128395
+Outer Membrane Protein Assembly Complex	bamB // bamA // bamD // bamC // bamE		2637474	2638652
+FMNH<sub>2</sub>-dependent alkanesulfonate monooxygenase	ssuD	b0935	994843	995988
+D-cysteine desulfhydrase	dcyD	b1919	1998494	1999480
+citrate lyase	citE // citF // citD		649582	650490
+uridine phosphorylase	udp	b3831	4016431	4017192
+L-glutamine&mdash;D-fructose-6-phosphate aminotransferase	glmS	b3729	3911839	3913668
+quinone reductase	yieF	b3713	3894652	3895218
+<i>N</i>-acetylneuraminate mutarotase	nanM	b4310	4537659	4538765
+beta complex // alpha complex	atoD // atoA		2323447	2324109
+ssDNA-binding protein	ssb	b4059	4274125	4274661
+lipopolysaccharide transport system	lptF // lptB // lptA // lptC // lptG // lptD // lptE		4486218	4487318
+peptidoglycan DD endopeptidase DacB	dacB	b3182	3328963	3330396
+3-deoxy-D-<i>manno</i>-octulosonate 8-phosphate phosphatase KdsC	kdsC	b3198	3342273	3342839
+histidine ABC transporter	hisJ // hisQ // hisM // hisP		2426006	2426788
+mannose-specific PTS enzyme II	manX // manY // manZ		1902048	1903019
+ABC-type tripartite efflux pump	macA // macB // tolC		919235	920350
+L-1,2-propanediol dehydrogenase / glycerol dehydrogenase	gldA	b3945	4137932	4139035
+pyridoxine/pyridoxamine 5'-phosphate oxidase	pdxH	b1638	1717351	1718007
+L-rhamnose isomerase	rhaA	b3903	4094723	4095982
+ATP-dependent RNA helicase RhlB	rhlB	b3780	3964365	3965630
+recombination mediator protein RecF	recF	b3700	3880148	3881221
+methylglyoxal synthase	mgsA	b0963	1026557	1027015
+8-amino-7-oxononanoate synthase	bioF	b0776	810381	811535
+proofreading thioesterase in enterobactin biosynthesis	entH	b0597	629300	629713
+UDP-glucose 4-epimerase	galE	b0759	791039	792055
+nitrate reductase Z	narV // narZ // narY		1535937	1536617
+<I>N,N'</I>-diacetylchitobiose-specific PTS enzyme II	chbB // chbC // chbA		1821299	1821619
+DNA-binding transcriptional dual regulator NtrC-phosphorylated	glnG	b3868	4053869	4055278
+cysteine desulfurase IscS	iscS	b2530	2660317	2661531
+peptidyl-lysine N-acetyltransferase	patZ	b2584	2719953	2722613
+cytidine/deoxycytidine deaminase	cdd	b2143	2231844	2232728
+Hda-&beta;-clamp complex	dnaN // hda		3881221	3882321
+3-isopropylmalate dehydrogenase	leuB	b0073	80867	81958
+TorS-<i>N</i>-phospho-L-histidine-850	torS		1053434	1056178
+ABC exporter YbhFSR	ybhF // ybhR // ybhS		827245	828981
+type II secretion system	gspM // gspL // gspK // gspJ // gspI // gspH // gspG // gspF // gspE // gspD // gspC		3465082	3465543
+large conductance mechanosensitive channel	mscL	b3291	3438024	3438434
+Ubi complex	ubiE // ubiF // ubiG // ubiH // ubiI // ubiJ // ubiK		4018855	4019610
+iron-sulfur cluster insertion protein IscA	iscA	b2528	2659563	2659886
+alkyl hydroperoxide reductase	ahpF // ahpC		639753	641318
+phosphoglucosamine mutase	glmM	b3176	3322733	3324070
+citrate synthase	gltA	b0720	753185	754468
+tRNA threonylcarbamoyladenosine dehydratase	tcdA	b2812	2945036	2945842
+Tsr<SUP>glu-Me</SUP>	tsr // cheA // cheW		4591657	4593312
+xylose isomerase	xylA	b3565	3729443	3730765
+DNA-binding transcriptional repressor DgoR	dgoR	b4479	3874471	3875160
+2-methylcitrate synthase	prpC	b0333	350012	351181
+fused chorismate mutase/prephenate dehydratase	pheA	b2599	2737745	2738905
+DNA-binding transcriptional repressor FrlR	frlR	b3375	3504052	3504783
+DNA-binding transcriptional dual regulator HU	hupB // hupA		461451	461723
+transcription antiterminator and regulator of RNA stability CspE	cspE	b0623	657292	657501
+cyclic pyranopterin monophosphate synthase	moaC	b0783	818570	819055
+GMP reductase	guaC	b0104	113444	114487
+periplasmic serine endoprotease	degQ	b3234	3380743	3382110
+putative tRNA-binding protein YgjH	ygjH	b3074	3220915	3221247
+lipoprotein NlpI	nlpI	b3163	3308040	3308924
+ATP synthase Fo complex // ATP synthase F1 complex	atpC // atpH // atpA // atpG // atpD // atpE // atpF // atpB		3915553	3915972
+cysteine synthase complex	cysK // cysE		2532409	2533380
+fructose-bisphosphate aldolase class II	fbaA	b2925	3070165	3071244
+multidrug efflux pump EmrAB-TolC	emrB // emrA // tolC		2812616	2814154
+enoyl-[acyl-carrier-protein] reductase	fabI	b1288	1350251	1351039
+glycine&mdash;tRNA ligase	glyQ // glyS		3724407	3725318
+&beta;-glucoside specific PTS enzyme II - cys24 phosphorylated	bglF		3903720	3905597
+multifunctional nuclease Cas1	cas1	b2755	2878855	2879772
+50S ribosomal protein L16-arginine 3-hydroxylase	roxA	b1128	1187119	1188240
+glyoxylate carboligase	gcl	b0507	533916	535697
+thiosulfate sulfurtransferase GlpE	glpE	b3425	3561497	3561823
+KHG/KDPG aldolase	eda	b1850	1932115	1932756
+adenosylmethionine-8-amino-7-oxononanoate aminotransferase	bioA	b0774	807968	809257
+tRNA pseudouridine<sup>38-40</sup> synthase	truA	b2318	2434824	2435636
+2Fe-2S cluster-containing protein YeaW	yeaW	b1802	1884665	1885789
+nitrate reductase A	narI // narH // narG		1285849	1286526
+phosphoribosylaminoimidazole-succinocarboxamide synthase	purC	b2476	2596905	2597618
+cellulose synthase	bcsA // bcsB		3692618	3695236
+outer membrane porin F	ompF	b0929	985894	986982
+YefM-YoeB antitoxin/toxin complex / DNA-binding transcriptional repressor	yefM // yoeB		2089462	2089713
+ClpX ATP-dependent protease specificity component and chaperone	clpX	b0438	457426	458700
+DNA-binding transcriptional  repressor CRP-Sxy	crp // sxy		3486120	3486752
+NAD(P)H:quinone oxidoreductase	wrbA	b1004	1067112	1067708
+2-amino-3-ketobutyrate CoA ligase	kbl	b3617	3791355	3792551
+1,4-dihydroxy-2-naphthoyl-CoA synthase	menB	b2262	2375962	2376819
+tRNA cytosine<sup>32</sup> 2-sulfurtransferase TtcA	ttcA	b1344	1411013	1411948
+selenocysteine synthase	selA	b3591	3759858	3761249
+sensor histidine kinase PhoR	phoR	b0400	417889	419184
+glucose-1-phosphate adenylyltransferase	glgC	b3430	3568033	3569328
+NADPH:quinone oxidoreductase MdaB	mdaB	b3028	3172530	3173111
+DNA helicase II	uvrD	b3813	3997983	4000145
+6-phosphogluconate dehydrogenase, decarboxylating	gnd	b2029	2099862	2101268
+putative hydrolase YcaC	ycaC	b0897	944931	945557
+ATP synthase F<sub>1</sub> complex subunit &alpha;	atpA	b3734	3918316	3919857
+O-succinylhomoserine(thiol)-lyase / O-succinylhomoserine lyase	metB	b3939	4128672	4129832
+phosphoserine/phosphohydroxythreonine aminotransferase	serC	b0907	957653	958741
+protein export chaperone SecB	secB	b3609	3783661	3784128
+oligopeptide ABC transporter	oppA // oppB // oppF // oppD // oppC		1301182	1302813
+macrodomain Ter protein	matP	b0956	1018485	1018937
+anti-sigma factor stabilizing protein RseB	rseB	b2571	2707798	2708754
+cysteine synthase A	cysK	b2414	2532409	2533380
+methyl-accepting chemotaxis protein Trg - ribose/galactose/glucose-sensing	trg	b1421	1492470	1494110
+thiazole synthase	thiH // thiG		4190735	4191868
+lipoprotein release complex	lolC // lolD // lolE		1175427	1176626
+dCTP deaminase	dcd	b2065	2141634	2142215
+DNA-binding transcriptional dual regulator OmpR-phosphorylated	ompR	b3405	3535865	3536584
+DNA-binding transcriptional dual regulator NsrR	nsrR	b4178	4406190	4406615
+fused diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase	ribD	b0414	433455	434558
+GDP-L-fucose synthase	fcl	b2052	2126225	2127190
+multidrug efflux pump AcrAB-TolC	acrB // acrA // tolC		481254	484403
+anaerobic ribonucleoside-triphosphate reductase activating protein	nrdG	b4237	4459900	4460364
+regulator of CsrB and CsrC decay	csrD	b3252	3401392	3403332
+poly-<i>N</i>-acetyl-D-glucosamine synthase	pgaC // pgaD		1086521	1087846
+DcuS-DcuB sensor complex	dcuS // dcuB		4350031	4351662
+AtoS-<i>N</i>-phospho-L-histidine	atoS		2320043	2321869
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase/UDP-glucuronate dehydrogenase	arnA	b2255	2368039	2370021
+GadE-RcsB DNA-binding transcriptional activator	gadE // rcsB		3658366	3658893
+miniconductance mechanosensitive channel YbdG	ybdG	b0577	603416	604663
+putative ethanolamine catabolic microcompartment shell protein EutM	eutM	b2457	2572157	2572450
+sulfurtransferase for molybdenum cofactor sulfuration	fdhD	b3895	4086016	4086849
+DNA topoisomerase IV	parC // parE		3163715	3165973
+HslVU protease	hslV // hslU		4121757	4122287
+cystine ABC transporter	tcyJ // tcyL // tcyN		1999585	2000385
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ispD	b2747	2871780	2872490
+nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	cobT	b1991	2063388	2064467
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	menD	b2264	2377589	2379259
+acetylglutamate kinase	argB	b3959	4156013	4156789
+alkaline phosphatase	phoA	b0383	401747	403162
+HypA-HypB heterodimer	hypB // hypA		2851001	2851873
+L-ribulose-5-phosphate 4-epimerase AraD	araD	b0061	65855	66550
+anaerobic glycerol-3-phosphate dehydrogenase	glpC // glpB // glpA		2355521	2356711
+23S rRNA m<sup>5</sup>C1962 methyltransferase	rlmI	b0967	1028779	1029969
+excision nuclease UvrABC	uvrA // uvrC // uvrB		4271049	4273871
+periplasmic protein-L-methionine sulfoxide reducing system	msrP // msrQ		2039478	2040482
+HypT-[Met]reduced	hypT	b4327	4557378	4558289
+lipopolysaccharide transport system - outer membrane assembly complex	lptE // lptD		671605	672186
+DNA-binding transcriptional dual regulator SlyA	slyA	b1642	1720390	1720824
+orotidine-5'-phosphate decarboxylase	pyrF	b1281	1341921	1342658
+inosine/guanosine kinase	gsk	b0477	500125	501429
+NADPH-dependent aldehyde reductase Ahr	ahr	b4269	4495190	4496209
+Grx4-IbaG complex	grxD // ibaG		1733754	1734101
+CpxA-<i>N</i>-phospho-L-histidine	cpxA		4103602	4104975
+sulfur acceptor protein CsdE	csdE	b2811	2944542	2944985
+dihydroxyacetone kinase, phosphotransferase component	dhaM	b1198	1247696	1249114
+sorbitol-specific PTS enzyme II	srlE // srlB // srlA		2826392	2827351
+putative quinone oxidoreductase 1	qorA	b4051	4263248	4264231
+sensor histidine kinase CusS	cusS	b0570	593328	594770
+FlhDC DNA-binding transcriptional dual regulator	flhC // flhD		1977266	1977844
+<i>N</i>-acetylmannosamine kinase	nanK	b3222	3369475	3370350
+fructose-6-phosphate aldolase 2	fsaB	b3946	4139046	4139708
+glutamate 5-kinase	proB	b0242	260388	261491
+acetylornithine deacetylase	argE	b3957	4153696	4154847
+copper binding protein CutA	cutA	b4137	4365018	4365356
+diguanylate cyclase DosC	dosC	b1490	1565758	1567140
+o-succinylbenzoate--CoA ligase	menE	b2260	2373648	2375003
+ferric coprogen outer membrane transport complex	tonB // exbB // exbD // fhuE		1311089	1311808
+protein-lysine deacetylase/desuccinylase/delipoylase	cobB	b1120	1179520	1180359
+sensor histidine kinase CpxA	cpxA	b3911	4103602	4104975
+PF02567 family protein YddE	yddE	b1464	1534965	1535858
+HigB-HigA toxin/antitoxin complex and DNA-binding transcriptional repressor	higB // higA		3234141	3234455
+dihydropyrimidine dehydrogenase (NAD<sup>+</sup>)	preA // preT		2235265	2236500
+periplasmic phosphoanhydride phosphatase/multiple inositol-polyphosphate phosphatase	appA	b0980	1040617	1041915
+ribose ABC transporter	rbsB // rbsC // rbsA		3936278	3937168
+5-dehydro-4-deoxy-<small>D</small>-glucuronate isomerase	kduI	b2843	2983288	2984124
+uracil phosphoribosyltransferase	upp	b2498	2620246	2620872
+biotin carboxyl carrier protein (dimer)	accB		3405436	3405906
+fumarase C	fumC	b1611	1685185	1686588
+molybdopterin molybdotransferase	moeA	b0827	865129	866364
+nucleoside phosphorylase PpnP	ppnP	b0391	408177	408461
+50S ribosomal protein complex L8	rplL // rplJ		4180560	4180925
+moderate conductance mechanosensitive channel YbiO	ybiO	b0808	843255	845480
+DNA-binding transcriptional repressor NikR-Ni<SUP>2+</SUP>	nikR		3618588	3618989
+glutamate synthase	gltB // gltD		3354725	3359185
+histidinol-phosphate aminotransferase	hisC	b2021	2092398	2093468
+oxalyl-CoA decarboxylase	oxc	b2373	2490256	2491950
+S6:S18 ribosomal subunit complex	rpsF // rpsR		4425118	4425513
+<i>N</i>-acetylglutamate synthase	argA	b2818	2949242	2950573
+NtrB-<i>N</i>-phospho-L-histidine	glnL		4055290	4056339
+multidrug efflux pump EmrE / betaine:H<sup>+</sup> antiporter / choline:H<sup>+</sup> antiporter	emrE	b0543	568315	568647
+anaerobic nucleoside-triphosphate reductase activating system	nrdG // nrdD		4459900	4460364
+inducible ornithine decarboxylase	speF	b0693	718262	720460
+murein tetrapeptide carboxypeptidase	ldcA	b1192	1242166	1243080
+periplasmic acid stress chaperone HdeB	hdeB	b3509	3655966	3656292
+pyridoxal kinase 2	pdxY	b1636	1715026	1715889
+chaperone protein HtpG	htpG	b0473	495120	496994
+multidrug efflux pump MdtEF-TolC	mdtF // mdtE // tolC		3660414	3663527
+glucose-1-phosphatase	agp	b1002	1065585	1066826
+nucleotide exchange factor GrpE	grpE	b2614	2750115	2750708
+cytochrome <i>bd</i>-II ubiquinol:oxygen oxidoreductase	appX // appB // appC		1040445	1040537
+DNA-binding transcriptional repressor TreR	treR	b4241	4466299	4467246
+periplasmic chaperone Skp	skp	b0178	200482	200967
+phosphate acetyltransferase EutD	eutD	b2458	2572489	2573505
+flagellar export apparatus	fliJ // fliI // fliH // fliR // fliQ // fliP // fliO // flhB // flhA		2017946	2018389
+DNA-binding transcriptional dual regulator CysB	cysB	b1275	1333855	1334829
+iron-catecholate outer membrane transport complex I	tonB // exbB // exbD // fiu		1311089	1311808
+PF10636 family protein YdiE	ydiE	b1705	1789613	1789804
+oxidized ribonucleoside-triphosphate reductase	nrdD		4460522	4462660
+2'-<i>O</i>-acetyl-ADP-ribose deacetylase, regulator of RNase III activity	ymdB	b1045	1105820	1106353
+hexapeptide repeats-containing protein YrdA	yrdA	b3279	3429236	3429790
+putative monooxygenase YdhR	ydhR	b1667	1746700	1747005
+dihydropteroate synthase	folP	b3177	3324063	3324911
+5'-methylthioadenosine/<i>S</i>-adenosylhomocysteine nucleosidase	mtn	b0159	178455	179153
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	gpmA	b0755	786843	787595
+ribosome-dependent mRNA interferase toxin YoeB	yoeB	b4539	2089211	2089465
+phosphoribosylformylglycinamide cyclo-ligase	purM	b2499	2621197	2622234
+Zn<sup>2+</sup>/Fe<sup>2+</sup>/Cd<sup>2+</sup> exporter	fieF	b3915	4106469	4107371
+periplasmic serine endoprotease DegP	degP	b0161	180884	182308
+RcsAB DNA-binding transcriptional dual regulator	rcsA // rcsB		2023968	2024591
+L-valine exporter	ygaH // ygaZ		2810344	2810679
+hydrogenase 1	hyaC // hyaB // hyaA		1035066	1035773
+Z-ring positioning protein MinC	minC	b1176	1225385	1226080
+ribosomal protein S6 modification protein	rimK	b0852	891967	892869
+inosine 5'-monophosphate dehydrogenase	guaB	b2508	2632604	2634070
+fructose-bisphosphate aldolase class I	fbaB	b2097	2177512	2178564
+ketol-acid reductoisomerase (NADP<sup>+</sup>)	ilvC	b3774	3957970	3959445
+FicT-FicA complex	yhfG // fic		3491453	3491620
+cyclic di-GMP phosphodiesterase PdeF	pdeF	b2503	2626695	2628938
+aminodeoxychorismate lyase	pabC	b1096	1153300	1154109
+glutamate&mdash;pyruvate aminotransferase AlaA	alaA	b2290	2407561	2408778
+cobalamin outer membrane transport complex	tonB // exbB // exbD // btuB		1311089	1311808
+L-serine deaminase III	tdcG	b4471	3258285	3259649
+protein histidine kinase NtrB	glnL	b3869	4055290	4056339
+mannitol-specific PTS enzyme II CmtBA	cmtA // cmtB		3077471	3078859
+dITP/XTP pyrophosphatase	rdgB	b2954	3096681	3097274
+pyrroline-5-carboxylate reductase	proC	b0386	404835	405644
+isocitrate dehydrogenase kinase/phosphatase	aceK	b4016	4218596	4220332
+2-oxoglutarate dehydrogenase complex	lpd // sucB // sucA		127912	129336
+protein sulfenic acid reductase and chaperone DsbG<sub>oxidized</sub>	dsbG		637827	638573
+peptidoglycan glycosyltransferase / peptidoglycan DD-transpeptidase MrcA	mrcA	b3396	3522871	3525423
+lipid A disaccharide synthase	lpxB	b0182	203348	204496
+NADPH-dependent curcumin/dihydrocurcumin reductase	curA	b1449	1519027	1520064
+putative transport complex, ABC superfamily	ydcU // ydcV // ydcT // ydcS		1513831	1514772
+ATP synthase F<sub>o</sub> complex	atpB // atpF // atpE		3921236	3922051
+Grx4-BolA complex	grxD // bolA		1733754	1734101
+methyl-accepting chemotaxis protein - dipeptide-sensing	tap	b1885	1969383	1970984
+D-alanyl-D-alanine carboxypeptidase DacC	dacC	b0839	880727	881929
+nonspecific DNA-binding protein YbiB	ybiB	b0800	835248	836210
+RnlA-RnlB toxin-antitoxin complex	rnlA // rnlB		2765918	2766991
+erythronate-4-phosphate dehydrogenase	pdxB	b2320	2436715	2437851
+primosomal protein DnaT	dnaT	b4362	4600978	4601517
+1-deoxy-D-xylulose-5-phosphate synthase	dxs	b0420	438315	440177
+multidrug efflux pump MdtABC-TolC	mdtA // mdtB // mdtC // tolC		2154016	2155263
+succinylornithine transaminase	astC	b1748	1830762	1831982
+DNA polymerase V	umuD // umuC		1230767	1231186
+DNA-binding transcriptional activator DcuR-phosphorylated	dcuR	b4124	4349315	4350034
+lactoylglutathione lyase	gloA	b1651	1727837	1728244
+DNA-binding transcriptional dual regulator/c-di-GMP phosphodiesterase PdeL	pdeL	b0315	332371	333459
+spermidine synthase	speE	b0121	135598	136464
+lysine&mdash;tRNA ligase, constitutive	lysS	b2890	3033657	3035174
+ribokinase	rbsK	b3752	3937294	3938223
+aspartate carbamoyltransferase catalytic subunit	pyrB	b4245	4471460	4472395
+4-hydroxy-tetrahydrodipicolinate synthase	dapA	b2478	2598882	2599760
+acetylesterase	aes	b0476	499014	499973
+allantoate amidohydrolase	allC	b0516	544057	545292
+Tap<SUP>glu</SUP>	tap // cheW // cheA		1969383	1970984
+glutathione synthetase	gshB	b2947	3091878	3092828
+TorR-TorI	torR		1057262	1057954
+citrate lyase, inactive	citE // citF // citD		649582	650490
+aconitate hydratase A	acnA	b1276	1335831	1338506
+&beta; complex	atoA	b2222	2324109	2324759
+acetohydroxy acid synthase I subunit IlvB // acetohydroxy acid synthase I subunit IlvN	ilvN // ilvB		3850802	3851092
+ethanolamine ammonia-lyase subunit alpha // ethanolamine ammonia-lyase subunit beta	eutC // eutB		2556410	2557297
+arsenite/antimonite:H<sup>+</sup> antiporter	arsB	b3502	3648935	3650224
+nitrogen regulatory protein PII-2	glnK	b0450	472598	472936
+ADP-L-glycero-D-mannoheptose 6-epimerase	rfaD	b3619	3793987	3794919
+malate dehydrogenase	mdh	b3236	3383330	3384268
+citrate lyase [acyl carrier protein] component	citD	b0617	650487	650783
+2,3-dihydroxybenzoate-[aryl-carrier protein] ligase	entE	b0594	626070	627680
+RNA polymerase sigma 19	fecI // rpoA // rpoC // rpoB		4517714	4518235
+formyltetrahydrofolate deformylase	purU	b1232	1287782	1288624
+D-2-hydroxyglutarate dehydrogenase	ydiJ	b1687	1765629	1768685
+citrate lyase, citrate-acyl carrier protein transferase component	citF	b0615	648039	649571
+UDP-<i>N</i>-acetylmuramate&mdash;L-alanine ligase	murC	b0091	100765	102240
+protein disaggregase ClpB	clpB	b2592	2731600	2734173
+glutamyl-tRNA reductase	hemA	b1210	1263714	1264970
+ATP-independent periplasmic chaperone Spy	spy	b1743	1825140	1825625
+Tap<SUP>gln</SUP>	tap // cheW // cheA		1969383	1970984
+fused N-acetylglucosamine-1-phosphate uridyltransferase and glucosamine-1-phosphate acetyltransferase	glmU	b3730	3913830	3915200
+fumarase A	fumA	b1612	1686731	1688377
+sulfite reductase, flavoprotein subunit complex	cysJ	b2764	2890099	2891898
+NADH:quinone oxidoreductase I, peripheral arm	nuoI // nuoG // nuoF // nuoE // nuoC // nuoB		2395908	2396450
+exodeoxyribonuclease VII	xseB // xseA		441101	441343
+ribonuclease T	rnt	b1652	1728347	1728994
+phosphoenolpyruvate carboxylase	ppc	b3956	4150447	4153098
+galactarate dehydratase	garD	b3128	3275282	3276853
+periplasmic acid stress chaperone HdeA	hdeA	b3510	3656408	3656740
+nickel ABC transporter	nikA // nikC // nikB // nikE // nikD		3613667	3615241
+ethanol dehydrogenase / alcohol dehydrogenase	adhP	b1478	1552828	1553838
+molybdopterin-guanine dinucleotide biosynthesis adaptor protein	mobB	b3856	4040906	4041433
+osmolyte:H<sup>+</sup> symporter ProP	proP	b4111	4330502	4332004
+predicted structural protein, ethanolamine utilization microcompartment	eutL	b2439	2555741	2556400
+fused chorismate mutase/prephenate dehydrogenase	tyrA	b2600	2738948	2740069
+maltose ABC transporter	malE // malG // malF // malK		4245229	4246419
+MazE antitoxin of the MazF-MazE toxin-antitoxin system / DNA-binding transcriptional repressor	mazE	b2783	2911091	2911339
+ornithine carbamoyltransferase	argI	b4254	4477307	4478311
+RNase adaptor protein RapZ	rapZ	b3205	3347115	3347969
+phenylalanine&mdash;tRNA ligase	pheT // pheS		1795557	1797944
+MazF toxin of the MazF-MazE toxin-antitoxin system that exhibits ribonuclease activity	mazF	b2782	2910756	2911091
+sensor histidine kinase ArcB	arcB	b3210	3350689	3353025
+iron-sulfur cluster carrier protein NfuA	nfuA	b3414	3545624	3546199
+biosynthetic arginine decarboxylase	speA	b2938	3083935	3085911
+glutamate / aspartate ABC transporter	gltL // gltJ // gltK // gltI		684530	685255
+L-fucose mutarotase	fucU	b2804	2938888	2939310
+DNA-binding transcriptional dual regulator Fis	fis	b3261	3411271	3411567
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase	phnP	b4092	4314344	4315102
+histidine--tRNA ligase	hisS	b2514	2639301	2640575
+<I>Eco</I>KI restriction-modification system	hsdS // hsdR // hsdM		4580068	4581462
+<i>sn</i>-glycerol 3-phosphate / glycerophosphodiester ABC transporter	ugpB // ugpE // ugpA // ugpC		3591009	3592325
+carbon storage regulator CsrA	csrA	b2696	2818961	2819146
+DUF945 domain-containing protein YdgA	ydgA	b1614	1689852	1691360
+ATP-dependent structure-specific DNA nuclease	sbcD // sbcC		415750	416952
+sensor histidine kinase DcuS	dcuS	b4125	4350031	4351662
+ClpAP	clpA // clpP		923264	925540
+periplasmic nitrate reductase	napA // napB		2300267	2302753
+intermembrane phospholipid transport system	mlaF // mlaE // mlaD // mlaB		3339256	3340065
+ClpAXP	clpX // clpA // clpP		457426	458700
+fused 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase and oxepin-CoA hydrolase	paaZ	b1387	1451597	1453642
+MntR-Mn<sup>2+</sup> DNA-binding transcriptional dual regulator	mntR		853183	853650
+PTS enzyme I	ptsI	b2416	2534066	2535793
+selenide, water dikinase	selD	b1764	1846965	1848008
+phosphatidylserine decarboxylase	psd		4389392	4390360
+sulfur carrier protein ThiS adenylyltransferase	thiF	b3992	4192821	4193576
+ChpB-ChpS complex	chpS // chpB		4448447	4448698
+nitrogen regulatory protein PII-1	glnB	b2553	2687070	2687408
+glycogen phosphorylase	glgP	b3428	3564134	3566581
+acetolactate synthase II subunit IlvG // acetolactate synthase II subunit IlvM	ilvM // ilvG		3952201	3952464
+HypT-[Met-oxidized] DNA-binding transcriptional dual regulator	hypT		4557378	4558289
