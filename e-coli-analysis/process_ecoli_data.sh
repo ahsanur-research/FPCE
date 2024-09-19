@@ -51,7 +51,7 @@ for i in $(seq 0.9 -0.1 0.6); do echo "FPCE Run for d = $i"; /usr/bin/time -o rs
 for i in $(seq 0.9 -0.1 0.6); do echo "FastQC Run for d = $i"; /usr/bin/time -o rss-time-fastqc-"$k"-"$i".txt -f "RSS=%M TIME=%S+%U" ../code/SIGMOD24-MQCE-main/code/FastQC/build/FastQC -f ecoli-all.fastqc -u 5 -g $i -q 1; sed -i 's/[^ ]* //' output; ../untransnum.pl ecoli-all.map < output > fastqc-ecoli-5-$i-genenames.out; done > fastqc-"$k"-"$i".log
 
 ################# enrichment analysis ######################
-Download ecocyc.gaf from https://current.geneontology.org/products/pages/downloads.html
+# Download ecocyc.gaf from https://current.geneontology.org/products/pages/downloads.html
 grep -v ^! ecocyc.gaf | cut -f3,5 | sort -k1 > ecocyc-gene2go.txt
 perl -lanF'\t' -e '$h{$F[0]} .= "$F[1];"; END {print "$_\t$h{$_}" for keys %h}' ecocyc-gene2go.txt > ecocyc-gene2golist.txt; sed -i 's/;$//g' ecocyc-gene2golist.txt
 
