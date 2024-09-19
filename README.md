@@ -88,7 +88,7 @@ __2. E. COLI DATA ANALYSIS:__
 
 * Run: cd e-coli-analysis
 * Copy the contents of https://github.com/tanghaibao/goatools into a folder called goatools-main
-* Download go-basic.obo file from [https://geneontology.org/docs/download-ontology/](GO Website) and put it here
+* Download go-basic.obo file from https://geneontology.org/docs/download-ontology/ and put it here
 * run the commands mentioned in process_ecoli_data.sh
 * run jupyter notebook: jupyter-notebook
 * run evaluate_ecoli_pseudocliques.ipynb in jupyter notebook
