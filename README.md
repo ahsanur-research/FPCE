@@ -24,6 +24,7 @@ Then follow the instructions in https://github.com/KaiqiangYu/SIGMOD24-MQCE to c
 
 
 **SUPPORTED GRAPH FILE FORMATS:**
+
 1. EDGELIST format: 
 Each line describes edge whose two endpoints/node-IDs are separated by a space for e.g.
 0 1
@@ -43,7 +44,9 @@ Typically, graphs are available in networkrepository.org in EDGELIST format. To 
 
 
 **INSTRUCTIONS TO REPLICATE OUR EXPERIMENTS:**
-_1. REAL and SYNTHETIC GRAPH ANALYSIS_
+
+__1. REAL and SYNTHETIC GRAPH ANALYSIS__
+
 * Run: cd real-synth-graph-analysis
 
 * To generate synthetic graphs, run jupyter notebook (in bash run: jupyter-notebook), and then run generate_synth_graphs.ipynb there. However, running it will replace all the synthetic graphs generated+used for our paper.
@@ -81,14 +84,16 @@ Preprocess and prepare a grh file, like before. Then run PCE in the following wa
 ** Run ODES on that graph file:
 /usr/bin/time -o log/time-odes-biogrid-10-0.9.txt -f "RSS=%M TIME=%S+%U" ../code/ODES/denseSG real-graphs/bio-grid-human.odes 0.9 10 mx > outputs/biogrid-10-0.9-odes.out
 
-_2. E. COLI DATA ANALYSIS: _
+__2. E. COLI DATA ANALYSIS:__
+
 * Run: cd e-coli-analysis
 * Copy the contents of https://github.com/tanghaibao/goatools into a folder called goatools-main
 * run the commands mentioned in process_ecoli_data.sh
 * run jupyter notebook: jupyter-notebook
 * run evaluate_ecoli_pseudocliques.ipynb in jupyter notebook
 
-_3. Other tasks:_
+__3. Other tasks:__
+
 * To prepare tables describing information of graphs (Tables 2,3,4 in our paper) you can use the following steps to gather info of all graphs
 cd real-synth-graph-analysis
 Run collect_graph_info.ipynb using jupyter-notebook
