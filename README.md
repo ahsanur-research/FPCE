@@ -26,20 +26,20 @@ Then follow the instructions in https://github.com/KaiqiangYu/SIGMOD24-MQCE to c
 **SUPPORTED GRAPH FILE FORMATS:**
 
 1. EDGELIST format: 
-Each line describes edge whose two endpoints/node-IDs are separated by a space for e.g.
+Each line describes edge whose two endpoints/node-IDs are separated by a space for e.g.   
 0 1  
 0 3  
 1 2  
 2 3  
   
-3. GRH FORMAT:
-It assumes that node-IDs of the graph are between 0 to n-1 (where n is the total number of nodes). This format describes an adjacency list where the i-th line (1st line is line-0, 2nd line is line-1, etc.) lists those neighbors of node i that have IDs > i. See details in: https://research.nii.ac.jp/~uno/code/pce.html
+3. GRH FORMAT:   
+It assumes that node-IDs of the graph are between 0 to n-1 (where n is the total number of nodes). This format describes an adjacency list where the i-th line (1st line is line-0, 2nd line is line-1, etc.) lists those neighbors of node i that have IDs > i. See details in: https://research.nii.ac.jp/~uno/code/pce.html  
 
-For e.g the aforementioned EDGELIST formatted graph file will look like below when converted to GRH format:
-1 3
-2
-3
-
+For e.g the aforementioned EDGELIST formatted graph file will look like below when converted to GRH format:  
+1 3  
+2  
+3  
+  
 Typically, graphs are available in networkrepository.org in EDGELIST format. To be able to apply PCE/FPCE on a graph, we need to convert it to GRH format, which can be done via transgrh.pl (see an e.g. given below). Also, to be able to apply transgrh.pl on an EDGELIST formatted file, the node-IDs must be between 0 to n-1; otherwise, we need to convert the EDGELIST file to another EDGELIST file using transnum.pl (see details in: https://research.nii.ac.jp/~uno/code/pce.html).
 
 
